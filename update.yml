@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A daily West Africa political-risk and current-affairs dashboard.">
+  <title>West Africa Intelligence Desk</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,600;6..72,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#">WA<span>INTEL</span></a>
+  <div class="top-actions"><span id="editionBadge" class="edition">Loading edition</span><button id="themeToggle" class="icon-btn" aria-label="Toggle dark mode">◐</button></div>
+</header>
+<main>
+  <section class="hero">
+    <div><p class="eyebrow">DAILY POLITICAL-RISK BRIEFING</p><h1>Understand West Africa.<br><em>Not just the headlines.</em></h1><p class="dek">Ten consequential developments, regional risk signals, country attention scores and source-linked context—updated automatically each day.</p></div>
+    <aside class="brief-status"><span class="pulse"></span><div><strong id="briefDate">Loading…</strong><small id="sourceCount">Checking briefing data</small></div></aside>
+  </section>
+
+  <section class="metrics" aria-label="Daily indicators">
+    <article><span>Developments</span><strong id="metricStories">—</strong><small>selected today</small></article>
+    <article><span>Countries</span><strong id="metricCountries">—</strong><small>represented</small></article>
+    <article><span>Sources</span><strong id="metricSources">—</strong><small>scanned</small></article>
+    <article><span>Top signal</span><strong id="metricSignal">—</strong><small>dominant risk theme</small></article>
+  </section>
+
+  <section class="section-head"><div><p class="eyebrow">TODAY'S PICTURE</p><h2>Regional attention board</h2></div><p>Scores reflect the volume and significance of today’s selected reporting—not a prediction of instability.</p></section>
+  <section id="countryBoard" class="country-board"></section>
+
+  <section class="workspace">
+    <div class="main-column">
+      <div class="section-head compact"><div><p class="eyebrow">THE DAILY TEN</p><h2>Key developments</h2></div></div>
+      <div class="controls"><div id="filters" class="filters"><button class="active" data-filter="All">All</button><button data-filter="Politics">Politics</button><button data-filter="Economy">Economy</button><button data-filter="Security">Security</button><button data-filter="Society">Society</button><button data-filter="Climate">Climate</button></div><label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search briefing"></label></div>
+      <section id="briefing" class="briefing" aria-live="polite"></section>
+      <p id="emptyState" class="empty" hidden>No developments match that filter.</p>
+    </div>
+    <aside class="side-column">
+      <section class="panel"><p class="eyebrow">ANALYST'S READ</p><h3 id="analystTitle">Loading analysis…</h3><p id="analystSummary"></p><div id="watchList" class="watch-list"></div></section>
+      <section class="panel"><p class="eyebrow">TOPIC MIX</p><div id="topicMix" class="topic-mix"></div></section>
+      <section class="panel"><p class="eyebrow">STUDY PROMPT</p><h3 id="studyQuestion">What should you investigate next?</h3><p id="studyContext">The app will turn today’s reporting into a question for deeper research.</p></section>
+    </aside>
+  </section>
+
+  <section class="methodology"><p class="eyebrow">CODE SENTINEL REVIEW</p><h2>Designed to be useful—and cautious.</h2><div class="method-grid"><article><span>01</span><h3>Traceable</h3><p>Every point retains its publisher, timestamp and original link so claims can be checked.</p></article><article><span>02</span><h3>Balanced</h3><p>Duplicate coverage is removed and limits prevent one outlet or country dominating the edition.</p></article><article><span>03</span><h3>Resilient</h3><p>The last successful briefing remains available when a feed or scheduled update fails.</p></article><article><span>04</span><h3>Honest</h3><p>Attention scores are descriptive signals, not coup forecasts, investment advice or verified intelligence.</p></article></div></section>
+</main>
+<footer><span>West Africa Intelligence Desk</span><span>Educational current-affairs tool · Verify developing reports</span></footer>
+<script src="app.js"></script>
+</body>
+</html>

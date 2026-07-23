@@ -1,8 +1,8 @@
 {
-  "date": "2026-07-22",
-  "generated_at": "2026-07-22T11:49:23.460849+00:00",
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:05:03.060600+00:00",
   "title": "West Africa Daily Intelligence Brief",
-  "executive_summary": "Today's West Africa briefing is shaped primarily by politics, economy and security. Significant developments are concentrated in Benin, Côte d'Ivoire, Ghana, Mali. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
+  "executive_summary": "Today's West Africa briefing is shaped primarily by politics, economy and security. Significant developments are concentrated in Benin, Côte d'Ivoire, Senegal, Mali. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
   "statistics": {
     "story_count": 10,
     "source_count": 8,
@@ -14,10 +14,10 @@
     "BBC",
     "Bloomberg.com",
     "Business Insider Africa",
-    "Businessday NG",
     "Chatham House",
     "Financial Times",
-    "The Guardian Nigeria News"
+    "The Guardian Nigeria News",
+    "africanews.com"
   ],
   "countries": [
     "Benin",
@@ -74,13 +74,13 @@
     },
     {
       "rank": 4,
-      "id": "68ce4a1504949a09",
-      "title": "Ghana Eyes Investment-Grade Rating With New IMF Policy Support",
-      "summary": "Ghana Eyes Investment",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUdaWWI1UFJwUTBzRDdTdm5OMWZKRWYxR3JkNVJ1V2JKSkxraDM3QnVqTndxODM3RGFnWGFwQV9zOWlOV01JMGhCa1RQM2VTYmFTeTJyMmdydVlTSE9nelNIQmxqT0RJekFmdW1hLXZWRkExMV80S0laM0JlT1l5UXlCSVBKZ0Jmemp3MjFBVlUtRUVDNjRXYXBnV2lRVW5zbG8zMHI3LTdnQ0t0RnY1ZGg2QQ?oc=5",
-      "published_at": "2026-05-15T07:00:00+00:00",
-      "country": "Ghana",
+      "id": "95ff68860e6c3a6b",
+      "title": "IMF lauds Senegal for strengthening economy, amending debt position",
+      "summary": "IMF lauds Senegal for strengthening economy, amending debt position africanews.com",
+      "source": "africanews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGMtZTB5d2RUSFIwX3hhc1gteDZ4aTZtWWxGTGFMVGg5dC1uaGptaDR1VFU1QmtYdVdRcTJKMXp4VDgxNG9ZVG5GcGphX05PS3BrTmhQSEdpdjZQbWM3U18yWlg1T3pEc2pLaU96UGx1M2lsRUVEWDUzNTZXM0JldFotOVU5bXhVVy1lU1RCdXc3UXJHZExROXdKOTl0T1p6Vk5FTGVJTjjSAa4BQVVfeXFMUG9wRE1RZlZhd1piTGJwUFowcnlfQ2twMVd4aWhfd2wyWmhONTkzTUxnWTZwN3Z6WVozZHlnNHkzMU43VFpGZ1gzWGRBU1o0SnFXU3BST054T0dXSU5DZkZzNmFWOGlSQ1dEZ1lROGJxUjlrOURZX3VCRnpILU9lVExudUhuU3hzOHNwaDh5WEFWdFUyNmlpZmtSbl9zZ2Zhd3o2d1lJMlRnZ0xTdTRn?oc=5",
+      "published_at": "2025-08-02T07:00:00+00:00",
+      "country": "Senegal",
       "category": "Economy",
       "importance_score": 19.18
     },
@@ -110,15 +110,15 @@
     },
     {
       "rank": 7,
-      "id": "5df8f8622bd8f9b0",
-      "title": "ECOWAS seals $27bn Nigeria-Morocco gas pipeline deal, opening new chapter for regional energy security",
-      "summary": "ECOWAS seals $27bn Nigeria-Morocco gas pipeline deal, opening new chapter for regional energy security Businessday NG",
-      "source": "Businessday NG",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQjBVc3NLVm45c2M5XzRxQ0Zib3ZiYTNkYTZSczBnTU1ZZ2Z6S0g0N25LRk51dDNlR3BidEVpOG9LRl9NRmx1dXJQX1VhQ1VuOTFsNHFDYlZYRE9Xd1QxYzRPaV84T3RLOUpmY3piMU1vQjJ2U2V5UlBpYi1XeXpwbTFXaW1OUlRSNkNfam11SzhzTWIwZkdCSzNwdFpxWUtWUl9hY3Y3MHhXbGJoQWJ3RXIyMVBBVEUycW0xWldkdm1INzg0RlV1REdJek81ODBvU21R?oc=5",
-      "published_at": "2026-07-21T15:59:40+00:00",
+      "id": "547a14a8f1d1e552",
+      "title": "France commits to trade, investment ties with Nigeria",
+      "summary": "France commits to trade, investment ties with Nigeria The Guardian Nigeria News",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXNGS256R29KcHBEYU5ibUFwejFaam9FY2pucUp1TThHM2thUG5MeTZXYXB2TUppdU9va2N4M2dfUmFMQjFWb3RlVVNZTnhQcHBrR2hYY3lZemQ1UUlISmUwWGp0UnFnZklqLVdBa3Q1RWRNSHhwQXRBcldYWkEtQUpiRkRtUUc1SDhPdjVJVHU2Q194UENGMDFVY0ltTDVRMEE?oc=5",
+      "published_at": "2026-07-23T04:07:00+00:00",
       "country": "Niger",
       "category": "Business",
-      "importance_score": 20.18
+      "importance_score": 16.18
     },
     {
       "rank": 8,
@@ -158,9 +158,9 @@
     }
   ],
   "learning": {
-    "type": "Economic development",
-    "title": "Why infrastructure affects industrial growth",
-    "description": "Reliable electricity, roads, railways and ports reduce production and trading costs. Weak infrastructure can therefore limit manufacturing growth even where labour and natural resources are available."
+    "type": "Political economy",
+    "title": "What fiscal reform means",
+    "description": "Fiscal reform involves changing government spending, taxation or borrowing to improve public finances. Although reforms may increase long-term stability, they can create short-term political pressure when subsidies are reduced or taxes rise."
   },
   "methodology": "Stories are collected from public Google News RSS searches, classified using keyword rules, filtered for near-duplicates and ranked using source quality, recency and political-risk relevance."
 }

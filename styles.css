@@ -33,3 +33,66 @@ main{padding-bottom:30px} section{margin:42px 0} section h2{margin:0;color:var(-
 footer{margin-top:70px;padding:38px 20px;color:rgba(255,255,255,.75);background:var(--green-950);border-top:4px solid var(--gold-500);text-align:center}footer strong{color:var(--gold-400)}.visually-hidden{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
 body.dark-mode{--ink-950:#f4f7f5;--ink-800:#e2e8e4;--ink-600:#b3beb7;--ink-400:#87928a;--surface:#11241b;--surface-warm:#142b20;--surface-soft:#081810;--border:#294538;--border-gold:#6e612f;background:var(--surface-soft)}body.dark-mode input,body.dark-mode select{color:#fff;background:#0b1d14}
 @media(max-width:900px){.stats-grid{grid-template-columns:repeat(2,1fr)}.hero{padding:56px 0 70px}}@media(max-width:680px){.page-container,.header-inner,.hero{width:min(100% - 22px,1180px)}.header-inner,.section-header{align-items:flex-start;flex-direction:column}.hero{padding:46px 0 62px}.hero h1{font-size:clamp(2.3rem,13vw,3.6rem)}.stats-grid,.filter-row{grid-template-columns:1fr}.summary-card,.story-card,.story-card.featured,.learning-card{padding:24px}.story-footer{align-items:flex-start;flex-direction:column}.primary-button,.secondary-button,input[type=search],select{width:100%}}
+
+
+/* =========================================================
+   INTELLIGENCE PRIORITY SCORE
+   Add this block to the bottom of styles.css
+   ========================================================= */
+
+.priority-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  min-height: 30px;
+  padding: 5px 10px;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.035em;
+  text-transform: uppercase;
+}
+
+.priority-badge strong {
+  font-size: 0.86rem;
+}
+
+.priority-high {
+  color: #7a1717;
+  background: #fae9e9;
+  border-color: rgba(169, 39, 39, 0.25);
+}
+
+.priority-elevated {
+  color: #72540d;
+  background: #f8f0d6;
+  border-color: rgba(182, 139, 24, 0.28);
+}
+
+.priority-monitor {
+  color: #0f5132;
+  background: #e9f3ed;
+  border-color: rgba(23, 107, 69, 0.22);
+}
+
+.story-card.featured .priority-badge {
+  color: var(--green-950);
+  background: var(--gold-400);
+  border-color: var(--gold-500);
+}
+
+body.dark-mode .priority-high {
+  color: #ffdada;
+  background: rgba(169, 39, 39, 0.3);
+}
+
+body.dark-mode .priority-elevated {
+  color: #fff0b5;
+  background: rgba(212, 175, 55, 0.18);
+}
+
+body.dark-mode .priority-monitor {
+  color: #d6f5e2;
+  background: rgba(23, 107, 69, 0.3);
+}

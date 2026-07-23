@@ -12,7 +12,35 @@ function renderLearningCard(){const l=briefingData?.learning;if(!l){elements.lea
 function renderMethodology(){if(briefingData?.methodology)elements.methodologyText.textContent=briefingData.methodology}
 function getFilteredStories(){const term=elements.searchInput.value.trim().toLowerCase(),country=elements.countryFilter.value;return getStories().filter(story=>{const categoryMatch=activeCategory==='All'||story.category===activeCategory;const countryMatch=country==='All'||story.country===country;const text=[story.title,story.summary,story.source,story.country,story.category].filter(Boolean).join(' ').toLowerCase();return categoryMatch&&countryMatch&&(term===''||text.includes(term))})}
 function renderStories(){const filtered=getFilteredStories(),total=getStories().length;elements.storyList.innerHTML='';elements.resultsSummary.textContent=filtered.length===total?`${total} ranked stories`:`${filtered.length} of ${total} stories shown`;if(filtered.length===0){elements.storyList.innerHTML='<div class="empty-state"><strong>No matching stories.</strong><p>Try changing the search term or filters.</p></div>';return}filtered.forEach((story,index)=>elements.storyList.appendChild(createStoryCard(story,index===0)))}
-function createStoryCard(story,isFirst){const article=document.createElement('article'),category=story.category||'General',country=story.country||'Regional',source=story.source||'Unknown source',rank=story.rank??'',published=formatPublishedDate(story.published_at);article.className='story-card';if(isFirst)article.classList.add('featured');if(category==='Security')article.classList.add('security');article.innerHTML=`<div class="story-topline"><span class="story-rank">${rank||'•'}</span><span class="badge category-badge ${category==='Security'?'category-security':''}">${escapeHtml(category)}</span><span class="badge country-badge">${escapeHtml(country)}</span></div><h3>${escapeHtml(story.title||'Untitled story')}</h3><p class="story-summary">${escapeHtml(story.summary||'No summary is available for this story.')}</p><div class="story-footer"><div class="story-meta"><span>${escapeHtml(source)}</span>${published?`<span>•</span><span>${escapeHtml(published)}</span>`:''}</div>${story.url?`<a class="read-source" href="${escapeAttribute(story.url)}" target="_blank" rel="noopener noreferrer">Read source →</a>`:''}</div>`;return article}
+function calculateIntelligencePriority(story) {
+  const rank = Number(story.rank) || 10;
+  const rawImportance = Number(story.importance_score) || 0;
+
+  let score = 100 - ((rank - 1) * 4);
+
+  if (rawImportance >= 25) {
+    score += 2;
+  }
+
+  score = Math.max(60, Math.min(100, score));
+
+  let level = "Monitor";
+  let className = "priority-monitor";
+
+  if (score >= 90) {
+    level = "High priority";
+    className = "priority-high";
+  } else if (score >= 78) {
+    level = "Elevated";
+    className = "priority-elevated";
+  }
+
+  return {
+    score,
+    level,
+    className
+  };
+}function createStoryCard(story,isFirst){const article=document.createElement('article'),category=story.category||'General',country=story.country||'Regional',source=story.source||'Unknown source',rank=story.rank??'',published=formatPublishedDate(story.published_at);article.className='story-card';if(isFirst)article.classList.add('featured');if(category==='Security')article.classList.add('security');article.innerHTML=`<div class="story-topline"><span class="story-rank">${rank||'•'}</span><span class="badge category-badge ${category==='Security'?'category-security':''}">${escapeHtml(category)}</span><span class="badge country-badge">${escapeHtml(country)}</span></div><h3>${escapeHtml(story.title||'Untitled story')}</h3><p class="story-summary">${escapeHtml(story.summary||'No summary is available for this story.')}</p><div class="story-footer"><div class="story-meta"><span>${escapeHtml(source)}</span>${published?`<span>•</span><span>${escapeHtml(published)}</span>`:''}</div>${story.url?`<a class="read-source" href="${escapeAttribute(story.url)}" target="_blank" rel="noopener noreferrer">Read source →</a>`:''}</div>`;return article}
 function formatPublishedDate(value){if(!value)return'';const date=new Date(value);if(Number.isNaN(date.getTime()))return'';const hours=Math.floor((Date.now()-date.getTime())/3600000),days=Math.floor(hours/24);if(hours>=0&&hours<1)return'Less than 1 hour ago';if(hours>=1&&hours<24)return`${hours} hour${hours===1?'':'s'} ago`;if(days>=1&&days<7)return`${days} day${days===1?'':'s'} ago`;return new Intl.DateTimeFormat('en-GB',{day:'numeric',month:'short',year:'numeric'}).format(date)}
 function setStatus(message,type=''){elements.briefingStatus.textContent=message;elements.briefingStatus.classList.remove('success','error');if(type)elements.briefingStatus.classList.add(type)}
 function showLoadError(error){elements.executiveSummary.textContent='The briefing could not be loaded. Make sure the local server is running and briefing.json is in the same folder as index.html.';elements.storyList.innerHTML=`<div class="error-card"><strong>Unable to load briefing.</strong><p>${escapeHtml(error.message||String(error))}</p></div>`;elements.resultsSummary.textContent=''}

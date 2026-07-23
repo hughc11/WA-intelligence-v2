@@ -21,7 +21,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
@@ -38,6 +38,9 @@ NUMBER_OF_STORIES = 10
 
 REQUEST_TIMEOUT_SECONDS = 20
 
+# Never use a story published more than 36 hours ago.
+MAX_STORY_AGE_HOURS = 36
+
 USER_AGENT = (
     "Mozilla/5.0 "
     "(Windows NT 10.0; Win64; x64) "
@@ -51,18 +54,19 @@ USER_AGENT = (
 # ==========================================================
 
 NEWS_SEARCHES = [
-    "West Africa politics",
-    "West Africa economy",
-    "West Africa security",
-    "ECOWAS",
-    "Nigeria politics economy",
-    "Ghana economy politics",
-    "Senegal politics economy",
-    "Cote d'Ivoire economy",
-    "Sahel security",
-    "West Africa investment business",
-    "West Africa climate agriculture",
+    "West Africa politics when:1d",
+    "West Africa economy when:1d",
+    "West Africa security when:1d",
+    "ECOWAS when:1d",
+    "Nigeria politics economy when:1d",
+    "Ghana economy politics when:1d",
+    "Senegal politics economy when:1d",
+    "Cote d'Ivoire economy politics when:1d",
+    "Sahel security when:1d",
+    "West Africa investment business when:1d",
+    "West Africa climate agriculture when:1d",
 ]
+
 
 
 # ==========================================================
@@ -682,7 +686,43 @@ IMPORTANT_TERMS = {
     "food security": 4,
 }
 
+def story_is_recent(
+    story: dict[str, Any],
+    maximum_age_hours: int = MAX_STORY_AGE_HOURS,
+) -> bool:
+    """
+    Return True only when the story has a valid publication
+    date within the permitted freshness window.
+    """
 
+    value = story.get("published_at", "")
+
+    if not value:
+        return False
+
+    try:
+        published = datetime.fromisoformat(
+            value.replace("Z", "+00:00")
+        )
+
+        if published.tzinfo is None:
+            published = published.replace(
+                tzinfo=timezone.utc
+            )
+
+        now = datetime.now(timezone.utc)
+
+        oldest_allowed = now - timedelta(
+            hours=maximum_age_hours
+        )
+
+        # Reject stories with implausible future dates too.
+        newest_allowed = now + timedelta(hours=2)
+
+        return oldest_allowed <= published <= newest_allowed
+
+    except (ValueError, TypeError):
+        return False
 def publication_timestamp(story: dict[str, Any]) -> float:
     """
     Return a sortable timestamp from published_at.
@@ -766,13 +806,24 @@ def classify_and_rank_stories(
     stories: list[dict[str, Any]],
 ) -> list[dict[str, Any]]:
     """
-    Detect country and category, remove duplicates,
-    score stories and return the strongest items first.
+    Keep only recent stories, classify them, remove duplicates,
+    score them and return the strongest stories first.
     """
+
+    recent_stories = [
+        story
+        for story in stories
+        if story_is_recent(story)
+    ]
+
+    print(
+        f"{len(recent_stories)} recent stories remain "
+        f"after the {MAX_STORY_AGE_HOURS}-hour age filter"
+    )
 
     classified: list[dict[str, Any]] = []
 
-    for story in stories:
+    for story in recent_stories:
         enriched_story = dict(story)
 
         enriched_story["country"] = detect_country(

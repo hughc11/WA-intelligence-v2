@@ -1,0 +1,44 @@
+name: Update Daily Intelligence Briefing
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-briefing:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Generate new briefing
+        run: python update_briefing.py
+
+      - name: Check whether briefing changed
+        id: changes
+        run: |
+          if git diff --quiet briefing.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Save new briefing to GitHub
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "WA Intelligence Bot"
+          git config user.email "actions@github.com"
+          git add briefing.json
+          git commit -m "Update daily intelligence briefing"
+          git push

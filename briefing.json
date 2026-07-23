@@ -1,57 +1,166 @@
-# West Africa Intelligence Desk
-
-A shareable, mobile-friendly political-risk learning dashboard that gathers West Africa news each morning and publishes a source-linked ten-point briefing.
-
-## Included features
-
-- Ten ranked daily developments covering politics, economics, security, society and climate.
-- A concise “why it matters” note for every story.
-- Country attention signals and a daily topic mix.
-- An analyst overview, watchlist and study question.
-- Duplicate-story, publisher-concentration and country-concentration controls.
-- Original publisher links, publication times and confidence labels.
-- A dated archive of successful editions.
-- A visible ten-item demonstration edition, so the site is never blank before setup.
-
-## Publish it free with GitHub Pages
-
-1. Unzip the download.
-2. Create a new **public GitHub repository**.
-3. Upload the contents of the `west-africa-briefing` folder, preserving `.github`, `data` and `scripts`.
-4. In **Settings → Actions → General**, ensure workflow permissions allow **Read and write permissions**.
-5. In **Settings → Pages**, choose **Deploy from a branch**, then `main` and `/ (root)`.
-6. Open **Actions → Update Daily Brief → Run workflow**.
-7. Wait for a green tick, then refresh the Pages website.
-
-The workflow runs daily at 06:17 UTC, which is 07:17 in the UK during British Summer Time.
-
-## Optional AI analysis
-
-The app works without an AI key using source text. To enable more polished synthesis, add an Actions repository secret named `OPENAI_API_KEY` under **Settings → Secrets and variables → Actions**. API usage may cost money and is separate from a ChatGPT subscription.
-
-## Run locally
-
-```bash
-python -m venv .venv
-# Windows: .venv\Scripts\activate
-# macOS/Linux: source .venv/bin/activate
-pip install -r requirements.txt
-python scripts/update_briefing.py
-python -m http.server 8000
-```
-
-Then open `http://localhost:8000`. Opening `index.html` directly can prevent the browser from loading the JSON file, so use the local server command.
-
-## Code Sentinel safeguards
-
-- No API keys are exposed in browser files.
-- User-visible feed content is escaped before rendering.
-- URLs are restricted to HTTP or HTTPS.
-- Network calls use timeouts.
-- A failed update does not overwrite the last successful briefing.
-- Every development keeps its source link.
-- Attention scores are explicitly descriptive, not forecasts of coups, conflict or investment outcomes.
-
-## Limitations
-
-RSS search can omit paywalled, local-language or poorly indexed reporting. Automated categorisation and summaries can misread context. This is an educational current-affairs tool, not verified intelligence, financial advice or a substitute for reading primary sources.
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T11:49:23.460849+00:00",
+  "title": "West Africa Daily Intelligence Brief",
+  "executive_summary": "Today's West Africa briefing is shaped primarily by politics, economy and security. Significant developments are concentrated in Benin, Côte d'Ivoire, Ghana, Mali. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
+  "statistics": {
+    "story_count": 10,
+    "source_count": 8,
+    "country_count": 6,
+    "category_count": 6
+  },
+  "sources": [
+    "Al Jazeera",
+    "BBC",
+    "Bloomberg.com",
+    "Business Insider Africa",
+    "Businessday NG",
+    "Chatham House",
+    "Financial Times",
+    "The Guardian Nigeria News"
+  ],
+  "countries": [
+    "Benin",
+    "Côte d'Ivoire",
+    "Ghana",
+    "Mali",
+    "Niger",
+    "Senegal"
+  ],
+  "categories": [
+    "Business",
+    "Climate",
+    "Economy",
+    "Politics",
+    "Security",
+    "Society"
+  ],
+  "stories": [
+    {
+      "rank": 1,
+      "id": "3cd1b6e069600222",
+      "title": "Coups, elections and protests - a difficult year for democracy in Africa",
+      "summary": "Coups, elections and protests",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZUUhxR2ZZSHpWMEFSTmNCSnlNa0hyYUFXb0VDRzdfbTBSTmNOS3FnQXdEQW1hbUEtRTJrdGlDcU9lcDVmdkF2X3l3M09nZHRKbmwxa2MyWFgwZw?oc=5",
+      "published_at": "2025-12-29T08:00:00+00:00",
+      "country": "Regional",
+      "category": "Politics",
+      "importance_score": 26.18
+    },
+    {
+      "rank": 2,
+      "id": "8229801e15607a5d",
+      "title": "Has Benin’s foiled coup made ECOWAS a West African heavyweight once more?",
+      "summary": "Has Benin’s foiled coup made ECOWAS a West African heavyweight once more? Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ09KbmtKWUxIbl9XZGw4MmJhcE5IS1FvVXo4RVk0UkNqblpVOVMzeEdTRlhMdDVCWXMyemdkeWx6cmNzZGFkR2FJYUdXLVhzbnlyX0hhU2hlclI2RkhiZ2hwb2ZqTjVIMzcxZnR0UWVkOU1OLXZkX2o0RF9JNFRKM3dUbkJRV2kxR2hJazdMUHFnNWNUQ2tlN3VIWEw0dVB4Y3ZIOU85a09IaVo4Tnlma3ktSGo2Rlhv0gG-AUFVX3lxTE5JV0xBb3pUYjEwVmRYSnhMU1Fkamp5RVMzOHV6Yl9EWjNCWm9wbWdwaU9CbHNxMk5qVXRObkN5NERGVFFwSXdhSmFTYUR0OUZaNHlmMTYtUnEwcXdld2VsTHFPMkpWU25MS1oxOXZXSDNPWW9MQk1ZSjNMSE10b1liQTd3ckprRWU4em1mMEdJTDctQlZ2MXY0WGt1Nmo3TWlzT0drLVF0cDVMcC1tVG9lbWV6cmg0WTNUM0NkU0E?oc=5",
+      "published_at": "2025-12-16T08:00:00+00:00",
+      "country": "Benin",
+      "category": "Politics",
+      "importance_score": 23.18
+    },
+    {
+      "rank": 3,
+      "id": "c3de6ed554425fb5",
+      "title": "Ivory Coast election protests grow after ex-Credit Suisse head Tidjane Thiam barred",
+      "summary": "Ivory Coast election protests grow after ex",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR01uNHlqMERRRjdqVDFmalZTeExDMk82Z2N4UldDMDFZNDZ1SElodmdlNGgxdF9nZ1Fqcm0tNDlxRW15bUZVZEhTX05JazZaVW92T1VLWnVDeURsRC1KNklDLVBNTEkydlpIQWhMXzNjWVd6eHJVMDFqeC1JYUVaU0NMSHY?oc=5",
+      "published_at": "2025-08-16T07:00:00+00:00",
+      "country": "Côte d'Ivoire",
+      "category": "Economy",
+      "importance_score": 22.18
+    },
+    {
+      "rank": 4,
+      "id": "68ce4a1504949a09",
+      "title": "Ghana Eyes Investment-Grade Rating With New IMF Policy Support",
+      "summary": "Ghana Eyes Investment",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUdaWWI1UFJwUTBzRDdTdm5OMWZKRWYxR3JkNVJ1V2JKSkxraDM3QnVqTndxODM3RGFnWGFwQV9zOWlOV01JMGhCa1RQM2VTYmFTeTJyMmdydVlTSE9nelNIQmxqT0RJekFmdW1hLXZWRkExMV80S0laM0JlT1l5UXlCSVBKZ0Jmemp3MjFBVlUtRUVDNjRXYXBnV2lRVW5zbG8zMHI3LTdnQ0t0RnY1ZGg2QQ?oc=5",
+      "published_at": "2026-05-15T07:00:00+00:00",
+      "country": "Ghana",
+      "category": "Economy",
+      "importance_score": 19.18
+    },
+    {
+      "rank": 5,
+      "id": "f4d0a432e5a280e2",
+      "title": "Why ECOWAS is losing grip on military coups in West Africa",
+      "summary": "Why ECOWAS is losing grip on military coups in West Africa Business Insider Africa",
+      "source": "Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHgtMXFpNWU0TVJVc2llWl9mMEgwYks4Rm1zdHZiUlFFZWhJcXlwN1p5RHNnQnU3WFh1UWN1aTJqWFRBVWlXcURZX1pVV0NEVnV2WDBVRy1hRjdnYUZJcEdJMlVORUZBQzBFUmF2ZFNob1IzQVJMZGZSVm1leHJiT0xWclBFVXZFdzEwMG5uTzhaRGV6bW1YN2ZSWTFhaFAxNzlBMm1Hc1J5c3VOMjFQMjVOMV95QQ?oc=5",
+      "published_at": "2026-05-20T07:00:00+00:00",
+      "country": "Regional",
+      "category": "Security",
+      "importance_score": 21.18
+    },
+    {
+      "rank": 6,
+      "id": "02c9707c9b37ba59",
+      "title": "Mali attacks show security cannot be delivered by military means alone",
+      "summary": "Mali attacks show security cannot be delivered by military means alone Chatham House",
+      "source": "Chatham House",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQjAtU3g4YkYtN01YREhSRkV3Z2xqb3B5alhrdEItY3BBSzlCemRlRU94TnF0QWNaZkNGM24wVldndUVTbjBlMjVUOVhPVk8wNHFsb1piR2drYjctTlZTdXNhNjJPNnB6S1lDTTZZaFdQQTNBcndCcGZHb2d0a3hEa0thZ1JHMExHdWFmSUZRMlBacjk4cTBLd3NjbGQ0cE1jNjQ5TVd0NA?oc=5",
+      "published_at": "2026-04-30T07:00:00+00:00",
+      "country": "Mali",
+      "category": "Security",
+      "importance_score": 20.18
+    },
+    {
+      "rank": 7,
+      "id": "5df8f8622bd8f9b0",
+      "title": "ECOWAS seals $27bn Nigeria-Morocco gas pipeline deal, opening new chapter for regional energy security",
+      "summary": "ECOWAS seals $27bn Nigeria-Morocco gas pipeline deal, opening new chapter for regional energy security Businessday NG",
+      "source": "Businessday NG",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQjBVc3NLVm45c2M5XzRxQ0Zib3ZiYTNkYTZSczBnTU1ZZ2Z6S0g0N25LRk51dDNlR3BidEVpOG9LRl9NRmx1dXJQX1VhQ1VuOTFsNHFDYlZYRE9Xd1QxYzRPaV84T3RLOUpmY3piMU1vQjJ2U2V5UlBpYi1XeXpwbTFXaW1OUlRSNkNfam11SzhzTWIwZkdCSzNwdFpxWUtWUl9hY3Y3MHhXbGJoQWJ3RXIyMVBBVEUycW0xWldkdm1INzg0RlV1REdJek81ODBvU21R?oc=5",
+      "published_at": "2026-07-21T15:59:40+00:00",
+      "country": "Niger",
+      "category": "Business",
+      "importance_score": 20.18
+    },
+    {
+      "rank": 8,
+      "id": "b1bfd8af7afb7b1e",
+      "title": "South Africa anti immigration protest: Nigeria, Ghana report South Africa to AU over xenophobic attacks",
+      "summary": "South Africa anti immigration protest: Nigeria, Ghana report South Africa to AU over xenophobic attacks BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83Ty11c05iOGhZak5qVy1kR3EzRXFwSEhsXy1kdWIteE5OT2VYS29lOVB0TUJvZzBSaWVlSUVEOFFSLVVQUXdaVndCQjRxUmpuRjMxUUtneWdQLUdn0gFiQVVfeXFMTnF0T2xQS0VxbWFnX1dGbVIxN2V2UjlMQ3NheGx3LXNxa1gtemZJSWRXbzA1amFtZkZEZU95NmZfeENqeXJiQlZOZC1JY0V6clBxbGdNQk9feU1Ub1EyVkFReHc?oc=5",
+      "published_at": "2026-07-20T10:50:27+00:00",
+      "country": "Ghana",
+      "category": "Society",
+      "importance_score": 20.18
+    },
+    {
+      "rank": 9,
+      "id": "9a5d692e2ab8e553",
+      "title": "Forum calls for increased mobilisation of funds for organic farming in W’Africa",
+      "summary": "Forum calls for increased mobilisation of funds for organic farming in W’Africa The Guardian Nigeria News",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRWt2NGtFQTYtVXRMOXF4aTlHRHdNbm93LWZvSVlvcTZEWXRzeENjdWhlejJjbXlPak9jVXN6Qll3SVdjdEdEcHgxbkx5ZC0wdFhLVlBBWGFVcUkzc3loVTlXaFFFNl9ualRTYWFrWFFRbUxwMV9KVENETDVxYlQwaGdjSWtIUTU5Y2lFLWRsbkx0cXlYNm1vRUlQWlJsd0NOVU5wWHNadEJqcXdjVG9DS0VNcDFHQWZDUkVDN2xGZkxFYWpyeFE?oc=5",
+      "published_at": "2024-11-02T07:00:00+00:00",
+      "country": "Niger",
+      "category": "Climate",
+      "importance_score": 10.17
+    },
+    {
+      "rank": 10,
+      "id": "eb579b2d1cc11d5d",
+      "title": "Senegal Trade Minister Says Government Open to Debt Revamp",
+      "summary": "Senegal Trade Minister Says Government Open to Debt Revamp Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWpEY2Zac2lzcnJJSUtyUFUwX1dRQlh6aGpWQ1NnYk9udTNxZHg2cmhGWFFNbEQyd0Rsc1Y3M3JrRF9MZmJzZWtNaUc1aUV2b0hUT1pVeTF5NjFGVmpQV3BnMGNzazh5bFZ4cmtNSjBpbXB1VmdfcU1sM2NnNjRwUUtFU1R4R3l6Tk5PR2JXbVF2OXA4V0ktXzl6SU1wM0Q5R1JXcnFEdlBlQjI1T1hUWGYyVHI?oc=5",
+      "published_at": "2026-06-22T07:00:00+00:00",
+      "country": "Senegal",
+      "category": "Politics",
+      "importance_score": 22.18
+    }
+  ],
+  "learning": {
+    "type": "Economic development",
+    "title": "Why infrastructure affects industrial growth",
+    "description": "Reliable electricity, roads, railways and ports reduce production and trading costs. Weak infrastructure can therefore limit manufacturing growth even where labour and natural resources are available."
+  },
+  "methodology": "Stories are collected from public Google News RSS searches, classified using keyword rules, filtered for near-duplicates and ranked using source quality, recency and political-risk relevance."
+}

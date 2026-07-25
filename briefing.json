@@ -1,33 +1,30 @@
 {
-  "date": "2026-07-24",
-  "generated_at": "2026-07-24T12:03:44.644955+00:00",
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T10:56:08.396822+00:00",
   "title": "West Africa Daily Intelligence Brief",
-  "executive_summary": "Today's West Africa briefing is shaped primarily by security, politics and economy. Significant developments are concentrated in Benin, Ghana, Niger, The Gambia. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
+  "executive_summary": "Today's West Africa briefing is shaped primarily by security, politics and economy. Significant developments are concentrated in Ghana, Niger, Mali. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
   "statistics": {
     "story_count": 10,
-    "source_count": 9,
-    "country_count": 4,
-    "category_count": 4
+    "source_count": 8,
+    "country_count": 3,
+    "category_count": 3
   },
   "sources": [
-    "BBC",
-    "GBC Ghana Online",
-    "Mshale",
-    "MyJoyOnline",
+    "Businessday NG",
+    "Modern Ghana",
     "Premium Times Nigeria",
-    "THISDAYLIVE",
-    "The Africa Report",
-    "The Guardian Nigeria News",
-    "The Villager Newspaper"
+    "The Villager Newspaper",
+    "The Washington Post",
+    "ZAgazola",
+    "foreignpolicyjournal.com",
+    "news.cgtn.com"
   ],
   "countries": [
-    "Benin",
     "Ghana",
-    "Niger",
-    "The Gambia"
+    "Mali",
+    "Niger"
   ],
   "categories": [
-    "Business",
     "Economy",
     "Politics",
     "Security"
@@ -35,30 +32,102 @@
   "stories": [
     {
       "rank": 1,
-      "id": "4eb992877c89d32d",
-      "title": "10 things about Birame Diop, the incoming ECOWAS commission president",
-      "summary": "10 things about Birame Diop, the incoming ECOWAS commission president The Africa Report",
-      "source": "The Africa Report",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazhab2hHbEo2ZVdRREI3ZkFYYkFuaFdFM25jOWZSM2JWcVAzMDc2cUEzbzFHUnFyUDRnUjhYMjJ3T1BNZzlYQ3dNZWNCVFBoMXpfYW5hMWwwVGtrRkQxaUU3TTFzeUVVNkI3QzMtclhtQVY5UGRXaVh2WFM1eFphMlNKUjZqSmxsSEdHYnlXTEl5bDI3T3o4NHc5VndvTVVLOUNMX0M5TVEyZ2ZJ?oc=5",
-      "published_at": "2026-07-24T09:01:23+00:00",
-      "country": "Regional",
+      "id": "0125e680a4347c39",
+      "title": "Former ECOWAS Court President Asante nominated to Ghana’s Supreme Court",
+      "summary": "Former ECOWAS Court President Asante nominated to Ghana’s Supreme Court Premium Times Nigeria",
+      "source": "Premium Times Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVF9zMkwyN2QwZ1JKTXVRNFc0MVpRREN5cVV3RERGRUFRNzMzYlpOZ0ZLYUlKamIzWGIzRklPbEV5ZWlpNUpuS2xjVGZIRmRUVjhfMXdyY0tEQ2NXWjUyTW9RYmFMWUozTmtzS0NMckZtREZxRU1DTVhwTk1ZZlE3UlJ6WWxzVVlxNHZYdVQ2LXluME9SODl4NVpyVUFTZURfcG0wcmVUa2x1QnlrNjB4ZlN2Um95LXRHVGFkRkxVNkxEX09uWEF3?oc=5",
+      "published_at": "2026-07-24T14:02:44+00:00",
+      "country": "Ghana",
       "category": "Politics",
-      "importance_score": 18.18
+      "importance_score": 20.18
     },
     {
       "rank": 2,
-      "id": "002b3136f0c06ecd",
-      "title": "Benin Accuses Niger: Inside The Alleged Coup Plot Against President Talon Gençlerbirliği Vs Trabzonspor (81wZnDYCyh)",
-      "summary": "Benin Accuses Niger: Inside The Alleged Coup Plot Against President Talon Gençlerbirliği Vs Trabzonspor (81wZnDYCyh) Mshale",
-      "source": "Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MRVJfVkwwcFppTlJieTJPTnJIZV8tSUN5b1ZsX3V2U0I1T01laERUNGVNY3hLSGpRY1dIV2V1T0lKREx4U0pfVmNoRFZHZlROQ2xPNUpKTzRJTXc?oc=5",
-      "published_at": "2026-07-24T08:02:59+00:00",
-      "country": "Benin",
+      "id": "41279d2ae0e09bd9",
+      "title": "PFN rejects muslim-muslim ticket for 2027 elections, denounces preaching restrictions",
+      "summary": "PFN rejects muslim-muslim ticket for 2027 elections, denounces preaching restrictions Businessday NG",
+      "source": "Businessday NG",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT1NyTVRUVTVsY2wtZUl4Q3NhNlRTVl9ab3g5M2ZjWl9ncTNzdHpBNTdfVEtjSlc2blliWnc5MDhMbTJ2Z0RXc19wcmRCcFJwWC1keGpfRGQtbU10ZzdaMVZWT2RVVVh6amRCN1VIU2FzSTlDalZjcUVhdzQ0T1dKQXVMNmVwZ3QtQ0xFbzRsSzZQSWszV1FmUkhmZGJnT2E3VUtXVTA1WFk4U3FHdDVSQnZ3bTlXLW5sUnZIR25TcjFGcjJGem5tSw?oc=5",
+      "published_at": "2026-07-24T11:03:51+00:00",
+      "country": "Niger",
       "category": "Politics",
-      "importance_score": 17.18
+      "importance_score": 16.18
     },
     {
       "rank": 3,
+      "id": "b16e5e8386536610",
+      "title": "Flexible work emerges as financial safety net for millions amid Nigeria’s inflation shock-Appa-Dankyi",
+      "summary": "Flexible work emerges as financial safety net for millions amid Nigeria’s inflation shock-Appa",
+      "source": "Businessday NG",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQelNzTVRWaDIwc1hVTURWV2NxQWEwOWJhUWRiWHNKMVVrVVhCaXFKOWw5Z0huSzBHRmdMdFZ6dFJ1R1RJYTd2V3ZuZ1VSZHZDb0xhWmdmazNXOHN2cnNwWVJYaDduNFJMMDM5QVk1am4xTzBkNktUODBLR1JZRF9hU0ZtX29Dck1rcW5qQnR4WHpILU5NTWh1emh1S01wcWNCajdiUFhBZ2tnRThRbEtJbFhMM0d1YWdBbTZBZUJQTUEwNFZ5OGF0TlNtaHNPYUZuSFdiZk5kWHNsZDQ?oc=5",
+      "published_at": "2026-07-24T11:50:57+00:00",
+      "country": "Niger",
+      "category": "Economy",
+      "importance_score": 15.18
+    },
+    {
+      "rank": 4,
+      "id": "0615e881873230b2",
+      "title": "2026 Mid-year budget: Government spending,debt and the six-month verdict | Beyond The Numbers",
+      "summary": "2026 Mid-year budget: Government spending,debt and the six",
+      "source": "Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tQXdIdXFxbndNbm15eFdRdS15NWVlb245YlVZZktMQ0hQZW1nUUdod1dXblpqRzR1TkVSZWpYWjgwelhVaGdhWDlsUURKb1E5MG9ucXhUNmQ3SlpqMVFlcUgwX2PSAVxBVV95cUxPWDZDa1ZZRDZlSDdSZ3NCYjhTVlhvQndYVFBlSWVSc3N4QUZiNnpNcXRVekc3VUd0dVB2X21yVmZBdllSV20tYVdrSjFyY2R6b0JvLTNMV3I3c3MwZw?oc=5",
+      "published_at": "2026-07-24T20:15:33+00:00",
+      "country": "Ghana",
+      "category": "Economy",
+      "importance_score": 14.18
+    },
+    {
+      "rank": 5,
+      "id": "32a67aff5d55e103",
+      "title": "Militant attack kills 15 at security check post in north-west Pakistan: military",
+      "summary": "Militant attack kills 15 at security check post in north",
+      "source": "news.cgtn.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOd25IaW9OSkJ3TV9pRk5lc2ZqQ1UzTGpLbHVaSHZkTzRPamFTWFhYamJkLThmRWszc3JmZ0ZEOGd6NFQ1ZlFZMlFEdHZEQlBrb28waVFzSHhSQ29ld1FRVjhhMEZLSjVoQzBjeGZB?oc=5",
+      "published_at": "2026-07-24T13:23:27+00:00",
+      "country": "Regional",
+      "category": "Security",
+      "importance_score": 18.18
+    },
+    {
+      "rank": 6,
+      "id": "f97eb3f998236b01",
+      "title": "Troops Repel ISWAP Attack on Military Checkpoint, kill several terrorists in Yobe",
+      "summary": "Troops Repel ISWAP Attack on Military Checkpoint, kill several terrorists in Yobe ZAgazola",
+      "source": "ZAgazola",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUFlJR2VDMFNLcTlJYms3UUs5MGQ2VVo2STZ6c3RMZnYwbjBqOHFja1lXem9zS3ROczlkQzRxV0tjd3RZWEtzNzUta19vcUdCNVYxUUZQRFpvSXlvaFY2alVlOXB6UDlvMjBYcXRPUWFUemJTRExzYlg5Y0ZKTW8xbmFSME1mRks0NXFxS2V6X1ZMZ1pscl9RS09jdXNnaGNnSzZBUXh3eWhKX3pWR3FiUXVjQ0JyZWxldVg2VUR3QXVKUzQ?oc=5",
+      "published_at": "2026-07-24T18:28:13+00:00",
+      "country": "Regional",
+      "category": "Security",
+      "importance_score": 15.18
+    },
+    {
+      "rank": 7,
+      "id": "cd13dc7f3f814478",
+      "title": "Three Years After Military Coup, Niger Faces Deepening Insecurity And Political Stagnation",
+      "summary": "Three Years After Military Coup, Niger Faces Deepening Insecurity And Political Stagnation foreignpolicyjournal.com",
+      "source": "foreignpolicyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVnZMdFVOWWxqazhGQUd4LUQzMHdvMzRUNllFN2REazRaU1ZmYmtWaHljcmxYRHItWkgwb3BfbTdfR1NVNkxtN2FsajdXdmJxQlRKS0l1WHIzR056d2RMWFRoWENQNlZ6T0lHNGNYbmo3Y2Y2RFZxTXNsYlhHSWt2VDAtVlR6TW1MR0lJdXA0WVFSRHNiOUJqd0wtb0lXTHBfOTUxLVBKMVRVRDZRc3ZpTFRBWU9hdDFSbDFCOGJDX3luVTBwRE85bG5Ic1dQYTc2YUdQVg?oc=5",
+      "published_at": "2026-07-25T09:09:34+00:00",
+      "country": "Niger",
+      "category": "Security",
+      "importance_score": 21.18
+    },
+    {
+      "rank": 8,
+      "id": "eb6bc45b187b8403",
+      "title": "Mali’s government does not rule out U.S. military intervention",
+      "summary": "Mali’s government does not rule out U.S. military intervention The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNHVKUGo2SW5GOFVyWTFMT2U3Rldob0s4RnN5a1JRSThwMi1Fc0d5bExzczVESXF0YVBMeUFxVHB6aTlocFFvWGhYOENWWVpZYkhGZF90dTdCYVVXMnJ0SG5aeHItNndyd21ic1NQWmZYVm92MkVSMnpKSDc5YXdUXzBjaE5FcUw1U1dsNmRUczBKN1hoMG1LNTRvYnhPbzh2dEpvdHFwZk5xRUNP?oc=5",
+      "published_at": "2026-07-24T23:44:45+00:00",
+      "country": "Mali",
+      "category": "Politics",
+      "importance_score": 14.18
+    },
+    {
+      "rank": 9,
       "id": "437572e41a84feb9",
       "title": "ECOWAS To Launch a Single Currency By 2027",
       "summary": "ECOWAS To Launch a Single Currency By 2027 The Villager Newspaper",
@@ -70,94 +139,22 @@
       "importance_score": 14.18
     },
     {
-      "rank": 4,
-      "id": "d74fdb788edc2cda",
-      "title": "Government adopts IMF Policy Coordination Instrument to sustain economic reforms, stability",
-      "summary": "Government adopts IMF Policy Coordination Instrument to sustain economic reforms, stability MyJoyOnline",
-      "source": "MyJoyOnline",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbi05V1hNeUYyMXJ3RjJON2NzUWFHbS1tZWxSUXVJMWk3MlpiclpJb2FWeWFZMktwa1FyQlBPSExvNG1lRHhaNkxMXzNPaVJ2R1RNc1JoT0E4S3FIa2VpelNCdjJSYXg5TWNOREJNU2ZLNU9idVRVTWI1RnJ2WkctRTl5MDU3SmlLalhiZ29XdlpyendWTXhYTmFRUFM3S2lUdmQxYlFjZDhCS2lKSlV1OWUxQU5BNkhzRmln?oc=5",
-      "published_at": "2026-07-24T05:10:01+00:00",
-      "country": "Ghana",
-      "category": "Economy",
-      "importance_score": 14.18
-    },
-    {
-      "rank": 5,
-      "id": "adbe2226bb30c4fe",
-      "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
-      "summary": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JcTkzdzJRVTc1RERHQUhtejM4LVZmcnZadmtNbGxTc25Od25ZbnFnVFkyd0RGOXdpc3lHaDJycTVjekg3TmVodWFvejgtWE1TQm1EdFNoeGtodw?oc=5",
-      "published_at": "2026-07-23T13:44:19+00:00",
-      "country": "Ghana",
-      "category": "Security",
-      "importance_score": 19.18
-    },
-    {
-      "rank": 6,
-      "id": "f0d57139e1ac3d95",
-      "title": "Military chaplains from Nigeria, other West African countries meet",
-      "summary": "Military chaplains from Nigeria, other West African countries meet Premium Times Nigeria",
-      "source": "Premium Times Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQkN4eHozT1dxM3l6eXkwTURsdWV5NUtYZE9PekNHbWJlNnJ5cTREb2NMSkczU0NWQ3F6MlV1TFNEbFJHTDZrUUNtX2NrOHJKOHc3XzFJMDUwa1VNZ0QyS3ZHazMxOFpBTHBHNXFsa0k4dFltNmtFZjVlMWJkVWt5NGJFaWUtZVEyTzVKRDdmMGNkRzdCQzV6NUswR0JEeHYteGhOMHFXNWE1LW05S3g3OUpUTFFEUF9PVG1VSHdqeXg?oc=5",
-      "published_at": "2026-07-23T17:54:29+00:00",
-      "country": "Niger",
-      "category": "Security",
-      "importance_score": 16.18
-    },
-    {
-      "rank": 7,
-      "id": "c44aa021d61aea4a",
-      "title": "IMF urges Nigeria, other African govts to improve data transparency, productivity",
-      "summary": "IMF urges Nigeria, other African govts to improve data transparency, productivity The Guardian Nigeria News",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEpXYTFjMGFWVzB4dHNsVU1SU0lIVnE1cEFPX3lzVmFQbWJVNmZnd3Nfd1J1a1oyOHJJbG5HQnllTEtHNHZiTWlDbkpBQlRjenJYUzFtSFVfOVFKcVVzaW1xcmNRSk1XaUhDeUlVT2p0Q0ZrYTNteldVUWJZdkpjenFZdlZLQmVBZ3RESEdwVzFFVTVyWDIyckJreW1GcE43eUcxbjdCVWdLQ2NPQUpwN1hVT0RLM2stdnc?oc=5",
-      "published_at": "2026-07-24T05:00:00+00:00",
-      "country": "Niger",
-      "category": "Business",
-      "importance_score": 14.18
-    },
-    {
-      "rank": 8,
-      "id": "acb1e3083f58c77d",
-      "title": "North-East political bloc backs Tinubu’s re-election, vows to deliver region for APC in 2027",
-      "summary": "North-East political bloc backs Tinubu’s re",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSTZ5RDZ2Qi1PbDQ5bVFoZXFLVXpuRXh5LWdYMExvdW5VZ3dvQjVCOXVQZjNNeUpzeGN1QlFwOG9RVDRLT3ZzVWlIZm5xVEFsclFLZHhuZ0k4YVJ2ZGwyYjRRWjhBYUQ3QUhxNEJBeElHWjZITENNQkFVSkNyWFhNVmNpQUQyQTZzUG5ETEpVYUdidThvQjVNVUoyV2ZMVkVZNnhfTWdfbGdkNjM2MzF1endqS1NSMDg?oc=5",
-      "published_at": "2026-07-23T16:57:00+00:00",
-      "country": "Niger",
-      "category": "Politics",
-      "importance_score": 17.18
-    },
-    {
-      "rank": 9,
-      "id": "57010d66c185a8e8",
-      "title": "US hands over $4 million military equipment to support Ghana’s security operations",
-      "summary": "US hands over $4 million military equipment to support Ghana’s security operations GBC Ghana Online",
-      "source": "GBC Ghana Online",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16dmppMlB2VmxZMjJVVDZTakdmekdWVERKd1U4cnkxYmgxV01ZQTlUUlJYM1JuRDYwZTNjQ20zS2NsVFZRQklGQ3pNMWNaUDRObXRfWXlkSmFNQk5jTWdYOVUwZ09XTnlyWHhFZ29Vbw?oc=5",
-      "published_at": "2026-07-24T10:31:26+00:00",
-      "country": "Ghana",
-      "category": "Security",
-      "importance_score": 15.18
-    },
-    {
       "rank": 10,
-      "id": "44a0a2333c22a4a8",
-      "title": "President Barrow, Governor Eno, Nigerian Army, Police, Zotmman Mining, Others to Receive Africa SWA in The Gambia Today",
-      "summary": "President Barrow, Governor Eno, Nigerian Army, Police, Zotmman Mining, Others to Receive Africa SWA in The Gambia Today THISDAYLIVE",
-      "source": "THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcFJ6N1YtN3pTYlh0NlhFSGdUVGxmYUdlLTZrOEZKalh2MnJzVEl2VnA3dEpYbTc1WkxaVEpCWm50LVoyMGMzeHFObDhTQVRENi13ejJKcVhVVDVRMEZLZy0zb29BSllEaUxFNDBJdm1UQlVweGJGMTJFc1JVNExrZGVMRkt2cmRIQ1VSbjdsb2FzWk90MHhBZXNhbjQ2MEVDaXlKUldpczlKQ2daTHEzWkZsd1Fuc2lRVUdZUTF1ZzBvNms0bXNxWDh5a0VFa1dmLWdDSGlHOWhMNTNFd1pzZExkVEpyZjJYbXc?oc=5",
-      "published_at": "2026-07-23T18:17:32+00:00",
-      "country": "The Gambia",
+      "id": "4e6e2b7bca8e2e14",
+      "title": "Terror Attacks in Africa Rise by 14% in 2026 — Major General Ba-Taa-Banah Warns | News Feed",
+      "summary": "Terror Attacks in Africa Rise by 14% in 2026 — Major General Ba-Taa",
+      "source": "Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53ODVPcUwxTjJKOUd1RTRBZWJWdVdpRFNGZndOZ2tlbDZhaWp3MTFJUGhlTjc2UW5wVXhIa3duQ2M3aU1XbGVvbnFjSEY4Nm5OY1lJOVFqRXJlSU9w0gFcQVVfeXFMTnc4NU9xTDFOMko5R3VFNEFlYlZ1V2lEU0Zmd05na2VsNmFpancxMUlQaGVONzZRbnBVeEhrd25DYzdpTVdsZW9ucWNIRjg2bk5jWUk5UWpFcmVJT3A?oc=5",
+      "published_at": "2026-07-24T19:02:48+00:00",
+      "country": "Ghana",
       "category": "Security",
-      "importance_score": 15.18
+      "importance_score": 13.18
     }
   ],
   "learning": {
-    "type": "Regional institution",
-    "title": "What is ECOWAS?",
-    "description": "The Economic Community of West African States was created to promote regional economic integration. It has also developed important political and security roles, including mediation, election monitoring and responses to unconstitutional changes of government."
+    "type": "Political risk concept",
+    "title": "Why currency instability matters",
+    "description": "Sharp currency movements can increase import costs, raise inflation and make foreign-currency debt harder to service. They can therefore affect public finances, business confidence and political stability."
   },
   "methodology": "Stories are collected from public Google News RSS searches, classified using keyword rules, filtered for near-duplicates and ranked using source quality, recency and political-risk relevance."
 }

@@ -1,35 +1,32 @@
 {
-  "date": "2026-08-06",
-  "generated_at": "2026-08-06T12:31:55.531304+00:00",
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T09:43:25.727016+00:00",
   "title": "West Africa Daily Intelligence Brief",
-  "executive_summary": "Today's West Africa briefing is shaped primarily by politics, security and economy. Significant developments are concentrated in Niger, Ghana, Benin, Senegal. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
+  "executive_summary": "Today's West Africa briefing is shaped primarily by politics, economy and security. Significant developments are concentrated in Sierra Leone, Niger, Ghana. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
   "statistics": {
     "story_count": 10,
-    "source_count": 10,
-    "country_count": 4,
-    "category_count": 5
+    "source_count": 9,
+    "country_count": 3,
+    "category_count": 4
   },
   "sources": [
-    "Arab News",
-    "BBC",
+    "Arise News",
     "BarristerNG.com",
-    "Business & Financial Times",
+    "Energy Intelligence",
+    "Firstpost",
     "Graphic Online",
-    "Milling Middle East & Africa",
-    "MyJoyOnline",
-    "NewsGhana",
-    "The Guardian Nigeria News",
-    "Traders Union"
+    "Modern Ghana",
+    "Naija News",
+    "THISDAYLIVE",
+    "Vanguard News"
   ],
   "countries": [
-    "Benin",
     "Ghana",
     "Niger",
-    "Senegal"
+    "Sierra Leone"
   ],
   "categories": [
     "Business",
-    "Climate",
     "Economy",
     "Politics",
     "Security"
@@ -37,15 +34,15 @@
   "stories": [
     {
       "rank": 1,
-      "id": "5bd90c683fb5c0bd",
-      "title": "Nigeria's president orders 80% salary increase for junior soldiers",
-      "summary": "Nigeria's president orders 80% salary increase for junior soldiers BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16UFdoWlR2Rm50cmhkY2xOUVJVd0lwOG1DRjhsU3VKaHc2ZFJNeTdzNGdCZk5wMDZFaENrQllzbWxtX0RMbEVORUNILXdLZDJFbXRlUGZCbG5uQQ?oc=5",
-      "published_at": "2026-08-05T12:52:19+00:00",
-      "country": "Niger",
+      "id": "c60cc638b3ee056f",
+      "title": "ECOWAS Chief Meets Ex-Sierra Leone President Koroma Amid Growing West African Political Tensions",
+      "summary": "ECOWAS Chief Meets Ex-Sierra Leone President Koroma Amid Growing West African Political Tensions Arise News",
+      "source": "Arise News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjB6X1VGalp4bnZwSFF2ZVliR05ZWHZITmJGRFRPT2xHUExIV3BrdnQ2UkNfVGtSd25hSlJid0lQNVk0TmJGbVJ3VkR0UW1LU1JMankzNmgxYnZEVHJxcjBBem1mNWVqd0x0UEVHOUc1STF0VlJsQTNlRzBtZ2k1OG9RVk0wNTJ2aXozeE85U1VfQkFsTTdNSmxrOGx1bi1qTk5EOFd1eTUzbWIwVVF5Yy1QWWdiYWxsa1E?oc=5",
+      "published_at": "2026-08-06T17:44:26+00:00",
+      "country": "Sierra Leone",
       "category": "Politics",
-      "importance_score": 17.18
+      "importance_score": 16.18
     },
     {
       "rank": 2,
@@ -61,90 +58,78 @@
     },
     {
       "rank": 3,
-      "id": "318ca99d57cc3ec5",
-      "title": "Board appointments of SOEs should only be based on merit – IMF to government",
-      "summary": "Board appointments of SOEs should only be based on merit – IMF to government MyJoyOnline",
-      "source": "MyJoyOnline",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLTFqNC01MUtzNW9mbEpKeUNPVm1hYlN0N0xCVURiM3ZxU2RaZjgtZncxU3hvblM4SHVGSkJpUFozN2JscWRMNWFpbzFULW9ZaGdXRWZFWGI3ZE5SN0M3T21vTG4ySmtYbFJRY05xbE9nWFlGdVpVV3VNTGlYUFhPNUQtZld4ckdhSHRQNjJkUFpVXzE1WlNJcjVadloyaVhUQzZKbWNR?oc=5",
-      "published_at": "2026-08-05T22:12:53+00:00",
+      "id": "96936144ab0e4079",
+      "title": "Ghana’s Inflation Drops to 4.6% in July 2026 – Government Statistician",
+      "summary": "Ghana’s Inflation Drops to 4.6% in July 2026 – Government Statistician Modern Ghana",
+      "source": "Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QZlVmXzRVOGE3ZTZ2dS1ETWhxaERMVGhTWEY0RGVpSncwM2ozWDc1OWNxRFg1Tlg3U1RhV3dMaWRjcmlNcHc3dWxtNjVnbTgxYUE4TVVIT2FaNTFi0gFcQVVfeXFMT1BmVWZfNFU4YTdlNnZ1LURNaHFoRExUaFNYRjREZWlKdzAzajNYNzU5Y3FEWDVOWDdTVGFXd0xpZGNyaU1wdzd1bG02NWdtODFhQThNVUhPYVo1MWI?oc=5",
+      "published_at": "2026-08-06T15:06:04+00:00",
       "country": "Ghana",
       "category": "Economy",
       "importance_score": 14.18
     },
     {
       "rank": 4,
-      "id": "c7cb43a59f4a1e9d",
-      "title": "Boako Disputes Government’s Post-IMF Resilience Claim",
-      "summary": "Boako Disputes Government’s Post",
-      "source": "NewsGhana",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0xFaDlScjRCWmx4VkFiTEpxRlJMMHZCX3BHdDZFRFg1SjNMNFdGa01jTWM1VlpPeEc4b2k3Z1MzSG8zdUkyc2kyeV93eUFQMWotTGNjcTdIUklGa1poMHRLMWlxSExrbURjSzVKN1p1NDNRUFFfd2JNdXIwZXhNQ1J0VncwaWg0b0E?oc=5",
-      "published_at": "2026-08-05T16:58:46+00:00",
-      "country": "Ghana",
+      "id": "e107e6a8b6b222f0",
+      "title": "Gbajabiamila Leads Zulum, Soludo, Others to Nigeria-Canada Investment Mission",
+      "summary": "Gbajabiamila Leads Zulum, Soludo, Others to Nigeria",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdk5Lem94d3h4MHJlbUZqSlhSUDZMd3lwYjFBdGNGWmg0cF9ha1NtYkViQ1NvN2lSOHpONVBLTzNsdmExdE9HS0lORTUxc0l0Z3dzTEJkNXNtbkhpang0UkluNWRpU1BmZjlCaDNoRXcwc2NiLVl4bl9yeUppMW9HQjB1OVpDTzlmaTAtZnpmOGtRRFYwNUJQM2pYbnhNZ0lBdVpYdlZWa2dNR2V3YmFObm5TWmZUZw?oc=5",
+      "published_at": "2026-08-07T02:26:19+00:00",
+      "country": "Niger",
       "category": "Economy",
-      "importance_score": 14.18
+      "importance_score": 13.18
     },
     {
       "rank": 5,
-      "id": "1d36752fb9c9ecf0",
-      "title": "Canada and Benin deepen economic partnership with embassy opening, new funding",
-      "summary": "Canada and Benin deepen economic partnership with embassy opening, new funding Traders Union",
-      "source": "Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2RROU5YVXBnNURjVGU5blRyczFvV2F0UGNZdGw3MVJjQVZCMVVEbHJrTjgxcDRZSTBndFFvamhrZ0M2bDdNQmpYb211Rjk5dWoyaGtWOUtrTGFQV0kyTXBmWE1TWGRQejRvb3Zsd0M4eWlZSm1ScFJ2SXJuSUt0RmxLbFI4TXh5M3pRYzc1RGtJekw0WFQ2VU9hOHR3VnRiQmc?oc=5",
-      "published_at": "2026-08-06T00:15:22+00:00",
-      "country": "Benin",
+      "id": "e0b4b61369082728",
+      "title": "Cameroon's 'Absent' President Biya Boosts Personal Security Cover From Geneva | Firstpost Africa",
+      "summary": "Cameroon's 'Absent' President Biya Boosts Personal Security Cover From Geneva | Firstpost Africa Firstpost",
+      "source": "Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS1pZTXc3WDNtYzRQNUVyX1JuZmpEdWhYOEZCMndoeHgtdS0xUXZ4NVFaQndVQW12YkV4aXlRNW1HUkk3ZUx5WjhoeVd3SVFveHR4M0VweWRpQXRfX0RpbXhuQW5XMlVTS1U0RUhPclBnaXN5M2hHdGsxWG1sMm9aRFdwNHpCZ2ZYc3YyWk42LWUyd2tNYjZVVFV1Y0l3UmFrc0ZTNmlSRlg3Nm1WOHVEWEV2S1Qxc0ZSNGVGZmpCMnk0WWlNQ1pfdGF2elVKVndReTR3QjA3VHRsWDdwd1RUR0VWWkxWdEpWNV9r0gHwAUFVX3lxTE9LOGQtTzZBRVo4Zkt2RTBSdkV2RGFDLXdIZld4N0s1UWVzSE8tSWd4LTBNY05kdkE0S0pKOVpYd1FscGdKZThjeWh2NjE2aHJOOGEyRGpHTDAwS3pCV1BIVWV1a091cnJpLXU0cnh3M2dCbkdMc1NvclNGQk1ON2dEZWZSV3dYZEI2T2E4X2VWVFZQb3FVRmtTSTN6MVZua3VvaUJycHNIOGtJa2lSRXhfNTAtTXBXMk4xRUY5azFxeEdiSlIyVmV4V05icElLdFhxMF9pMS02VFdWMC1fYVUwc1Q0YXEtb0pWVWJiNDhocw?oc=5",
+      "published_at": "2026-08-06T20:15:00+00:00",
+      "country": "Regional",
       "category": "Security",
-      "importance_score": 11.18
+      "importance_score": 13.18
     },
     {
       "rank": 6,
-      "id": "3ed618ecb52b8a64",
-      "title": "Bahrain tells Iran to halt ‘terrorist’ attacks on regional neighbors and to comply with UN resolutions",
-      "summary": "Bahrain tells Iran to halt ‘terrorist’ attacks on regional neighbors and to comply with UN resolutions Arab News",
-      "source": "Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EVndvT1pPTmZUZGJGdU5EbUlTa2ZET0JCdUJFVzZ2ZXZ1WUI4Q2dhaDlXdkFEbTI3dHF5NFFDQWxoTnFzX1lQQkVIWWZWc2ZHY0t3?oc=5",
-      "published_at": "2026-08-05T17:08:25+00:00",
+      "id": "a6278681d040d03f",
+      "title": "Mideast Crisis Delivers Africa Energy Security Wake-Up Call",
+      "summary": "Mideast Crisis Delivers Africa Energy Security Wake",
+      "source": "Energy Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TdFBXNzVrSkRHVHpBZ1RXblVXajlIXy16UHBOU0Q5aVAtcU82VzVXd3JMZVNvZXJHanljNVNkQS1xam1Vbzk4YmVvYzQ5VzVVVkxRc0xESk1JQm0weGpBd1I1QW1BVnBUTHZXaUZqaHJTZw?oc=5",
+      "published_at": "2026-08-06T21:23:33+00:00",
       "country": "Regional",
       "category": "Security",
-      "importance_score": 11.18
-    },
-    {
-      "rank": 7,
-      "id": "1da24ab23294a414",
-      "title": "MTN strengthens support for SMEs",
-      "summary": "MTN strengthens support for SMEs Business & Financial Times",
-      "source": "Business & Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPQkhHY2NYODBYNEFFODdKcGpGeE5yaGd3cHY2RUdac2RqMVhFMXVsMkxHeDNsZDdXdWhNQl83WkNqVjJEMzZHZDdQZjJpTmdtSDA5QWpPZ2NyZ29hSnk1T2tpd21Ic2tHZ0cwdTBVTHM3bk0?oc=5",
-      "published_at": "2026-08-06T08:14:27+00:00",
-      "country": "Regional",
-      "category": "Business",
-      "importance_score": 9.18
-    },
-    {
-      "rank": 8,
-      "id": "67e9135928abba39",
-      "title": "Olam Agri doubles wheat milling capacity in Senegal to support food security",
-      "summary": "Olam Agri doubles wheat milling capacity in Senegal to support food security Milling Middle East & Africa",
-      "source": "Milling Middle East & Africa",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNXlvdjhuUGg3V1ZkSnllUTVpU0dKQXBpQmhwLVVET09PM1dOX09JSFhaWXNOUVdWRWYyR0dYZE1qOHhWdEY0b3Zzczg3WGdsVGFHa0xXVVJQb0VuTXlSUy0tcHozMlJoVXBtb1k0V0ZJb3puMTFUVkJVaGhFclBFaDAzalE2aDhjY1plbDBpclFWdHFsQlJXR2FKVTN3aWZJRXc?oc=5",
-      "published_at": "2026-08-06T08:54:01+00:00",
-      "country": "Senegal",
-      "category": "Climate",
       "importance_score": 12.18
     },
     {
-      "rank": 9,
-      "id": "2311391b549b11a7",
-      "title": "Military identifies wanted terrorists leaders",
-      "summary": "Military identifies wanted terrorists leaders The Guardian Nigeria News",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94eWQwT0FJNmRlTTk5VV9UZjBhSERMOFEtazV3RHlMOVZrRF9neGtPYVE4VVhrcldqOWRPYkJ4QWdrR1YwZ0hBRkVqYTk1djNwbDBuSzZEejh2Y2xOVEFScXk0LTI3c1I4RkFBbC1TTndYQUVEX3U4MThnNA?oc=5",
-      "published_at": "2026-08-05T19:42:00+00:00",
+      "rank": 7,
+      "id": "802249409ac3b06b",
+      "title": "JP Batteries launched in Ghana, expands to other West African markets",
+      "summary": "JP Batteries launched in Ghana, expands to other West African markets Vanguard News",
+      "source": "Vanguard News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmJ0d05KOUNiRW1hTjdmNUEtYjAwdHR0U0hmM0x6UU9TY3pQaS1wVkZGNVZGOHljaVBTVjJqM3FmQW1Ldm1relRmTlNxbUhXMWN2bWFndG1uZkJ6ZXZUSUpRa1FTRTRNZWxyWFFPUHVMMW4zRVVDdXN5ZzJWdFpPenNqMTAwcGFkSW5fQUVDREFKMFJtYkJtZnE4ekN3a3BKQ0VTVGJaRC1pZzVEcEHSAa4BQVVfeXFMTlpidHdOSjlDYkVtYU43ZjVBLWIwMHR0dFNIZjNMelFPU2N6UGktcFZGRjVWRjh5Y2lQU1YyajNxZkFtS3Zta3pUZk5TcW1IVzFjdm1hZ3RtbmZCemV2VElKUWtRU0U0TWVsclhRT1B1TDFuM0VVQ3VzeWcyVnRaT3pzajEwMHBhZEluX0FFQ0RBSjBSbWJCbWZxOHpDd2twSkNFU1RiWkQtaWc1RHBB?oc=5",
+      "published_at": "2026-08-07T06:37:51+00:00",
+      "country": "Ghana",
+      "category": "Business",
+      "importance_score": 8.18
+    },
+    {
+      "rank": 8,
+      "id": "9d6eb01aab92a490",
+      "title": "Pipeline Security Drives Nigeria’s Energy Growth as PINL Backs New Gas Investments",
+      "summary": "Pipeline Security Drives Nigeria’s Energy Growth as PINL Backs New Gas Investments THISDAYLIVE",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFI2RWFRX1REek52UXVuMlBZeDc2blc0dXROemRWalgyTVpycDZKeGk1eTVmSk5iV2h0QVBlMlgxb1lkNHFyNzYyczJCaTJOZ05IRkcteS1Nai1kYjRHY2RrWlRrSWl2TmNGdG85Ym9RaVdicEdCaWN3M3BkV3hVc1pjVUVCYmtyM2pBS1RIQUpPblg0RUdORDdZX2NsZnNZQ2xyWGRDekZ4emdQZWRzZi10NmluQndqSVZHUGRR?oc=5",
+      "published_at": "2026-08-07T02:26:20+00:00",
       "country": "Niger",
-      "category": "Security",
+      "category": "Business",
       "importance_score": 17.18
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "a9eca059e9d34a82",
       "title": "ECOWAS donates $250,000 to Ghana flood victims",
       "summary": "ECOWAS donates $250,000 to Ghana flood victims Graphic Online",
@@ -154,12 +139,24 @@
       "country": "Ghana",
       "category": "Politics",
       "importance_score": 15.18
+    },
+    {
+      "rank": 10,
+      "id": "93e86a1968db6a52",
+      "title": "Tinubu Receives Outgoing ECOWAS Commission President Touray",
+      "summary": "Tinubu Receives Outgoing ECOWAS Commission President Touray Naija News",
+      "source": "Naija News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0w3SVNQRDAxLTV5OXZ2dlVXNktzMkxDSGt2NWZvUzktaU55U2haaTZyUzl2X0lQdkIzUXNhQURmSDNoUzRnVVdHalpqWmdmX3NBQWM4SWMxdl90Smk3ZGFGVHd0aEstRHRLQWN4U0d2T2tmVXpBb1pfUWRuZF81V0t4bElpc0JI?oc=5",
+      "published_at": "2026-08-07T05:43:39+00:00",
+      "country": "Regional",
+      "category": "Politics",
+      "importance_score": 14.18
     }
   ],
   "learning": {
-    "type": "Economic development",
-    "title": "Why infrastructure affects industrial growth",
-    "description": "Reliable electricity, roads, railways and ports reduce production and trading costs. Weak infrastructure can therefore limit manufacturing growth even where labour and natural resources are available."
+    "type": "Political economy",
+    "title": "What fiscal reform means",
+    "description": "Fiscal reform involves changing government spending, taxation or borrowing to improve public finances. Although reforms may increase long-term stability, they can create short-term political pressure when subsidies are reduced or taxes rise."
   },
   "methodology": "Stories are collected from public Google News RSS searches, classified using keyword rules, filtered for near-duplicates and ranked using source quality, recency and political-risk relevance."
 }

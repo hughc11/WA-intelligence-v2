@@ -1,28 +1,29 @@
 {
-  "date": "2026-08-28",
-  "generated_at": "2026-08-28T18:47:52.808827+00:00",
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T12:43:58.740179+00:00",
   "title": "West Africa Daily Intelligence Brief",
-  "executive_summary": "Today's West Africa briefing is shaped primarily by politics, economy and security. Significant developments are concentrated in Burkina Faso, Liberia, Ghana, Mali. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
+  "executive_summary": "Today's West Africa briefing is shaped primarily by politics, security and economy. Significant developments are concentrated in Mali, Niger, Senegal, Ghana. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
   "statistics": {
     "story_count": 10,
-    "source_count": 5,
-    "country_count": 6,
+    "source_count": 8,
+    "country_count": 4,
     "category_count": 5
   },
   "sources": [
-    "Business & Financial Times",
-    "GhanaWeb",
+    "Bloomberg.com",
+    "Business Upturn",
+    "Daily Trust",
     "MyJoyOnline",
+    "News Ghana",
+    "TVC News",
     "The Guardian Nigeria News",
-    "t.co"
+    "thestar.co.za"
   ],
   "countries": [
-    "Burkina Faso",
     "Ghana",
-    "Liberia",
     "Mali",
     "Niger",
-    "Togo"
+    "Senegal"
   ],
   "categories": [
     "Business",
@@ -34,30 +35,42 @@
   "stories": [
     {
       "rank": 1,
-      "id": "c7417042a1c16f41",
-      "title": "No existential crisis despite Mali, Burkina Faso and Niger’s exit, ECOWAS commission president says",
-      "summary": "No existential crisis despite Mali, Burkina Faso and Niger’s exit, ECOWAS commission president says The Guardian Nigeria News",
+      "id": "aafaada5401a9b7f",
+      "title": "Protests in Mali after ECOWAS mediation mission fails",
+      "summary": "Protests in Mali after ECOWAS mediation mission fails The Guardian Nigeria News",
       "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb1JNQkJWR0lBakZJUWZER1B1WnBGMUpGUldyZGo2UU1Id3FqektOaTZ6RVBwV3FsN002M2ZOeEViOG1nQWFsNWVIVlR3bUhQdHp1bktaRFBucWxzLTRhVFptNEJPOHRiQUJmSVp1WXJJNEc1Z1dJMkNBUUtFcDN6M0pfQmhoNk9xQWtJRDJ5clpOY2UxTERkSFBvSXk3amRSX3g3TTdMM05wUDFiWTZWN2QyQmZOamVZUXZMTA?oc=5",
-      "published_at": "2026-08-28T06:23:06+00:00",
-      "country": "Burkina Faso",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRy1oNWN5NkhjRVFwUHREYUo0ZmlJY0E4RFh4Rlg0Ujg1aF9qOHMxYjZFRC1zX2tJbkJUOFhTWjdlQWlld28xSU94M0VtcFVpX0Y1bktDRm1FRm55ckthOERuMmRVSjB4UU9oQWdBcVZzakt2ckVIR2RvNzRldzNiQzZnVQ?oc=5",
+      "published_at": "2026-08-28T22:01:15+00:00",
+      "country": "Mali",
       "category": "Politics",
       "importance_score": 21.18
     },
     {
       "rank": 2,
-      "id": "ec11939cc3de24d6",
-      "title": "ECOWAS honours Imodibe, other fallen journalists in Liberia, S’Leone wars",
-      "summary": "ECOWAS honours Imodibe, other fallen journalists in Liberia, S’Leone wars The Guardian Nigeria News",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFUtZmppQ1ZXZkdLcndhNkJVeVhxNl8zLUlFSFJxX0lRd21UM09DeE02Wk5Nbk5BdmR5djY1bFhOMUNzMk5icV9BQ2M2Y2FOMFJpczBBajhPSjdFSnZVUmFFV0Y2aHJQTHhLcmhrck1CTXZGRmlUbjZpWkU1aWJtZkZfNGFhNmw3bWx4blQwRGFOcFhpdHBEYnZhSG4?oc=5",
-      "published_at": "2026-08-28T03:52:00+00:00",
-      "country": "Liberia",
+      "id": "124c38cf547dc1f8",
+      "title": "Niger: Coup fear as Gunshots rock Presidential palace, airport",
+      "summary": "Niger: Coup fear as Gunshots rock Presidential palace, airport Daily Trust",
+      "source": "Daily Trust",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUWZSRm5EeFdsZUozRllaMGJHT21COXRaSzZPZ1Nmc21jMEVESG5qd0ZYVUF3WnkwT1VISWo4TERxaEVMUDJYUEp5MU0zLTRXZEY5SjZkQWMzMk90aEtscUFkWDAxUS1COEVUWks4aDNjZUhiV21JcmpGUE05N2N1QW15ekNWN0hlbWhiOA?oc=5",
+      "published_at": "2026-08-29T10:09:11+00:00",
+      "country": "Niger",
       "category": "Politics",
-      "importance_score": 17.18
+      "importance_score": 20.18
     },
     {
       "rank": 3,
+      "id": "a145d40670e7f74b",
+      "title": "Moody’s Downgrades Senegal as Power Rift Amplifies Debt Risks",
+      "summary": "Moody’s Downgrades Senegal as Power Rift Amplifies Debt Risks Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS2ViQS1mdndnS0psYlJXYkJLeml4Nmo2SFJPYVp1dEs0S3dWX3YxQjY5TjRLRzM2dDhoQWdKZ0s2b2QwdDdmZTEwM0hybWFTb2hNNFNlSTVMaXlrQktBQjV1N051aEc2ZzV5bkJKUVlsbVpiYzliYTZHbGRQdF9IRFJMaUhQLWU2RkQ1YlYtT09CbkRROGZaUWVfZTR6NFBSeENDUmNaa1hpdWFaZzI2a2ZMVHowNmpDX2NremNRTGpRMHg0R3c?oc=5",
+      "published_at": "2026-08-28T20:51:00+00:00",
+      "country": "Senegal",
+      "category": "Economy",
+      "importance_score": 16.18
+    },
+    {
+      "rank": 4,
       "id": "85b73fd6f6ab6a9e",
       "title": "Opoku-Afari: IMF programmes unable to address political economy roots of debt accumulation",
       "summary": "Opoku-Afari: IMF programmes unable to address political economy roots of debt accumulation MyJoyOnline",
@@ -69,94 +82,82 @@
       "importance_score": 15.18
     },
     {
-      "rank": 4,
-      "id": "e729dab53a7600a0",
-      "title": "Orchestrating national wealth(1): The urgent case for operationalising a Ghana Minerals & Commodities Exchange Authority (GMCxA)",
-      "summary": "Orchestrating national wealth(1): The urgent case for operationalising a Ghana Minerals & Commodities Exchange Authority (GMCxA) Business & Financial Times",
-      "source": "Business & Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EOWN3ejZrZ0JnZE5pcWJNTmxuUDRNV29LTnlad2NKZWpqT1VsR1F6MGxaTjdEZWZIVmo3TU1WNURMZUxlazVaZVBRNEpmZk9XMWFTYndPNlRHbGM2b1RyQkNJU3pqNzBTNVgyRU9pazJ1QQ?oc=5",
-      "published_at": "2026-08-28T11:02:40+00:00",
-      "country": "Ghana",
-      "category": "Economy",
-      "importance_score": 13.18
-    },
-    {
       "rank": 5,
-      "id": "124b2c6767d9aa0b",
-      "title": "ECOWAS bloc lifts post-coup sanctions against Mali",
-      "summary": "ECOWAS bloc lifts post",
+      "id": "2e81e50e540d0ac5",
+      "title": "Niamey attack: \"Return to ECOWAS\", Shehu Sani tells Niger",
+      "summary": "Niamey attack: \"Return to ECOWAS\", Shehu Sani tells Niger The Guardian Nigeria News",
       "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YVE9HajdMaUtCSHRmTlBweHBsekZrMTlBYzlsZEV5eWRjVDlPV0d6VWZpZXJEQ1FvMWlZUDRRUTE3cjJaSy1HU1hOZ3dOUlNrcTNRQ3lNUi1TZVB6MlAtZGtRQzlMcmFPdS1jT3RTNklvaXc4bkpMNVB0amdCenM?oc=5",
-      "published_at": "2026-08-28T00:07:23+00:00",
-      "country": "Mali",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdFVaT2xFNnduVW1qMFoyZk5OQmZJVFBHM3BtLU4td0czWDBldjdNa0VXMUsxckNhSXc3dFUzdkJOUWlwakFNWFY5Y3NmN28yc0wycUlGY1F3X2tTTmx3c21iM0pPNUJSZmt3WmxDb0FsYlVBaDhwdUVsengxei1FdUpKSTRrQQ?oc=5",
+      "published_at": "2026-08-29T11:29:00+00:00",
+      "country": "Niger",
       "category": "Security",
-      "importance_score": 24.18
+      "importance_score": 23.18
     },
     {
       "rank": 6,
-      "id": "b9c5f772f9b91e76",
-      "title": "Can ECOWAS curb security concerns amid junta-led breakaway?",
-      "summary": "Can ECOWAS curb security concerns amid junta",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdDBweDBEV3RkQlhFNEo4Z2NHakxnQ3M1RzRTeldSYlg5RkZWQkZZRmVybWlINDh3emZTV3l6d2tDY2d0VVJoeXhMTUNBT3hPeXJzb3MtNzZDNU5YTW03QUdVTGdEajdRM2RSM21hTU1oVUhOZEY5UlU0Z09YTVN3Rkc1VXZUakFsdGc?oc=5",
-      "published_at": "2026-08-28T06:36:45+00:00",
-      "country": "Niger",
+      "id": "06b5f26d0a5d5c47",
+      "title": "Shehu Sani Urges Sahel States to Rejoin ECOWAS After Niamey Attack",
+      "summary": "Shehu Sani Urges Sahel States to Rejoin ECOWAS After Niamey Attack TVC News",
+      "source": "TVC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWJXakJ6LS11cDQtSDlqTWlVZEVIejRLVWZSeW1HbDlGMG9zUWVrV2U4MWw4OGFlU05tdWdsRnh5YmliX3IwVjREcXJSaEF4enRYc3JFRnl5WlQxekVFRU5CYnVsN2JENkNycWd0UGQ3V3IyeThLLUlDMm95ajNIOVBlVXlpLVEzV2stb1ZHRm9QMEFj?oc=5",
+      "published_at": "2026-08-29T12:26:00+00:00",
+      "country": "Regional",
       "category": "Security",
-      "importance_score": 21.18
+      "importance_score": 16.18
     },
     {
       "rank": 7,
-      "id": "c0b86276388d2258",
-      "title": "How West Africa’s investment banking space is coping with COVID-19",
-      "summary": "How West Africa’s investment banking space is coping with COVID",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVWp6dDJQRjFQR05Uc0ZObm4wNUtZUFNrTG9SaGZqNkJvb3h0Q2RyR0ZkYlpLc2tELVh0OTJRZzUzM2hnVFRjWV8wU21rSFhzeENQVWdJa01YRDBQbFFsc2NnUzc3VjRzT2dld1lkN1NTb292SU9UZGRLTVFNQ1pxY2ZnaGJoR3BTNDFCb0VOaDFleXc?oc=5",
-      "published_at": "2026-08-28T12:41:32+00:00",
-      "country": "Niger",
+      "id": "b7920012d275c166",
+      "title": "Subregional investment bank pledges US$2 billion to boost West Africa’s energy security",
+      "summary": "Subregional investment bank pledges US$2 billion to boost West Africa’s energy security News Ghana",
+      "source": "News Ghana",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb3Nmb1FiVmRpSmtxNmZRbUFHS1M3djdBZS1RZE9BSW45ZUQ5TW55bVNzUGcwTXktb2RMdGxWT3U2djR6TTFmWVJYN21JVXpYY2NSQUZra0VEUjAzb1IxNXNpVWhyMFVDQzI4OUFFOUZwTGpyMXRoWVpKbUJ4eElqekREVG93ZnAtdGdpLUFOQjFRd213Wnoxa0VLUDhpYjc4UHZnQkhEMVNCdmc3WGY1VA?oc=5",
+      "published_at": "2026-08-29T11:22:14+00:00",
+      "country": "Ghana",
       "category": "Business",
-      "importance_score": 13.18
+      "importance_score": 14.18
     },
     {
       "rank": 8,
-      "id": "e7d2f0968bd6df79",
-      "title": "Togo Balances Forest Protection with Investment Drive",
-      "summary": "Togo Balances Forest Protection with Investment Drive t.co",
-      "source": "t.co",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE84ejVJYTVQeXFpT2xBaHU5b09BSm5xQ3doWFI5STlweGtBRUs3LUNEVUc4V053N200cFNB?oc=5",
-      "published_at": "2026-08-27T19:26:18+00:00",
-      "country": "Togo",
+      "id": "846583e55227e444",
+      "title": "SA braces for possible food price pressure as El Niño looms",
+      "summary": "SA braces for possible food price pressure as El Niño looms thestar.co.za",
+      "source": "thestar.co.za",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjh2UjBrQ3dqcEtsUGlDbkQwdXRxYlpwWkpFUUpCSndkTzNjVU9CZHhObmdOVXdwNl9PVU5qNVlGaXo0QkJOOGk4RjJKQmNfbTRyMndVS2RoWHBSdlhPOTNkazZGN1lkSVlqdUlNVmRiT2FWa3dnMnBsZVlGejdkazdzS0c0dzViZnFOS202MWFSLVRRd1FCQg?oc=5",
+      "published_at": "2026-08-28T14:44:56+00:00",
+      "country": "Regional",
       "category": "Climate",
-      "importance_score": 8.18
+      "importance_score": 3.18
     },
     {
       "rank": 9,
-      "id": "2b399df1d13624c4",
-      "title": "Are the African Union and ECOWAS losing relevance?",
-      "summary": "Are the African Union and ECOWAS losing relevance? The Guardian Nigeria News",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GalhBRFRIMnI3R2dfZ1Q1YWJJX0hjZ29VbXh4YWcyZXRtYjNVb1BlZHFBeHlFT0pFSWFaZlZpTFVqdkVhTXhPaWQ5ck1fU3ZRSWhhd1lScEdaSy1XZC1CSVo3SVdZS3ZBN01QcWpLX2ZFaDE2dElvQWl1OTZ0dw?oc=5",
-      "published_at": "2026-08-27T19:23:39+00:00",
+      "id": "a3c8c9e069f81b06",
+      "title": "Fighting erupts near Niger presidential palace as security forces battle attackers in Niamey",
+      "summary": "Fighting erupts near Niger presidential palace as security forces battle attackers in Niamey Business Upturn",
+      "source": "Business Upturn",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUw2aGYwajBsVENPbHRqd2ZobFpuc2dLQ09yM2FVbmZLVWJZRUJFLXhIZ3RDZUh1N3oyOTJKQVlpRlBYZ1NCbnNZa0ZUSUtIaTZaRkxPcGFVZUphdE9xU0hUTFRxUDZsYUltR0p5V1RCaVF3VkN5eUhhNzY5X3FsQmhmc25PZ0JXNXJLR29XNEVtbUNYZF9QR243QzJEWFVuZUZwc0x3TWhWOXlQZkxQb2JzVWVJVENTaU1DZWZsRElkdUtYM3g5eWxB?oc=5",
+      "published_at": "2026-08-29T09:39:00+00:00",
       "country": "Niger",
-      "category": "Politics",
-      "importance_score": 17.18
+      "category": "Security",
+      "importance_score": 20.18
     },
     {
       "rank": 10,
-      "id": "b648c32df965db60",
-      "title": "ECOWAS Court President, GBA Boss and More: Facts about the newly approved SC justices",
-      "summary": "ECOWAS Court President, GBA Boss and More: Facts about the newly approved SC justices GhanaWeb",
-      "source": "GhanaWeb",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWVI0Vk1aenF6QThwWHdXblRiaHZUb2E3Ni1reWdZTjk5b3JCOExId2lLdGp0cW1mRzgwUDZKaUVtenJNTXZTY0c1UVpETmFkMDB1LXlEb29uSEhKaklkOG5ReEMxVzNwZV9nWXlDSTYxQTY0WDUzMjItZzBIdVpvNGpsTFB4OXltLWNBLVpzSGdKU1N5bTZLWTgta2dzN1JBdWVQS09UVVZnRTZmamYwWTBNODlIcUxSTWNBSWRFS0t1akRNNkVfTm1RQnFfTV8yLXZjeUFkZ2xSZw?oc=5",
-      "published_at": "2026-08-28T11:28:30+00:00",
+      "id": "515a0c30f9e42d27",
+      "title": "Ghana Prepares To Bury Ex-Leader Rawlings, Nigeria wants ECOWAS restructured and more",
+      "summary": "Ghana Prepares To Bury Ex-Leader Rawlings, Nigeria wants ECOWAS restructured and more The Guardian Nigeria News",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNVRDdENNcEVBcFA1WEpIMm5YQzZMb0NUcnlKRXhDVUlrbm1VbEY2Y0dYWF9jQ1k1dUtJWG8yUk1yVzZDWGVBYWdURS1ja2xrLWJfdTdiOVRiS2hxeVQtcWtvYUpWUWZHTWk0LWVwcGc2VVA2d281YnVUT2pNR0hxNThoLWV5Q25lMnhQYjFEaVlta0szX2lra011ZzNHR3JuMENGLVc4bjNXbGNN?oc=5",
+      "published_at": "2026-08-28T21:58:57+00:00",
       "country": "Ghana",
       "category": "Politics",
-      "importance_score": 16.18
+      "importance_score": 17.18
     }
   ],
   "learning": {
-    "type": "Regional institution",
-    "title": "What is ECOWAS?",
-    "description": "The Economic Community of West African States was created to promote regional economic integration. It has also developed important political and security roles, including mediation, election monitoring and responses to unconstitutional changes of government."
+    "type": "Political risk concept",
+    "title": "Why currency instability matters",
+    "description": "Sharp currency movements can increase import costs, raise inflation and make foreign-currency debt harder to service. They can therefore affect public finances, business confidence and political stability."
   },
   "methodology": "Stories are collected from public Google News RSS searches, classified using keyword rules, filtered for near-duplicates and ranked using source quality, recency and political-risk relevance."
 }

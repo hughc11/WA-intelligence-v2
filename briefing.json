@@ -1,97 +1,97 @@
 {
-  "date": "2026-08-29",
-  "generated_at": "2026-08-29T12:43:58.740179+00:00",
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T11:59:28.884234+00:00",
   "title": "West Africa Daily Intelligence Brief",
-  "executive_summary": "Today's West Africa briefing is shaped primarily by politics, security and economy. Significant developments are concentrated in Mali, Niger, Senegal, Ghana. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
+  "executive_summary": "Today's West Africa briefing is shaped primarily by politics, security and economy. Significant developments are concentrated in Guinea, Niger, Ghana. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
   "statistics": {
     "story_count": 10,
-    "source_count": 8,
-    "country_count": 4,
+    "source_count": 9,
+    "country_count": 3,
     "category_count": 5
   },
   "sources": [
-    "Bloomberg.com",
-    "Business Upturn",
-    "Daily Trust",
+    "Asaase Radio",
+    "Boston 25 News",
+    "Business Insider Africa",
+    "Mwakilishi.com",
     "MyJoyOnline",
     "News Ghana",
-    "TVC News",
-    "The Guardian Nigeria News",
-    "thestar.co.za"
+    "Premium Times Nigeria",
+    "THISDAYLIVE",
+    "TVC News"
   ],
   "countries": [
     "Ghana",
-    "Mali",
-    "Niger",
-    "Senegal"
+    "Guinea",
+    "Niger"
   ],
   "categories": [
     "Business",
-    "Climate",
     "Economy",
     "Politics",
-    "Security"
+    "Security",
+    "Society"
   ],
   "stories": [
     {
       "rank": 1,
-      "id": "aafaada5401a9b7f",
-      "title": "Protests in Mali after ECOWAS mediation mission fails",
-      "summary": "Protests in Mali after ECOWAS mediation mission fails The Guardian Nigeria News",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRy1oNWN5NkhjRVFwUHREYUo0ZmlJY0E4RFh4Rlg0Ujg1aF9qOHMxYjZFRC1zX2tJbkJUOFhTWjdlQWlld28xSU94M0VtcFVpX0Y1bktDRm1FRm55ckthOERuMmRVSjB4UU9oQWdBcVZzakt2ckVIR2RvNzRldzNiQzZnVQ?oc=5",
-      "published_at": "2026-08-28T22:01:15+00:00",
-      "country": "Mali",
+      "id": "067eb230d6d3468b",
+      "title": "Guinea-Bissau votes in a referendum to grant expanded presidential powers ahead of election",
+      "summary": "Guinea-Bissau votes in a referendum to grant expanded presidential powers ahead of election Boston 25 News",
+      "source": "Boston 25 News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWdvb1g0dm9HazRpTGthRUlrRUlWREVaSWJyQ1lreDFNTkxKUms4MkFMcnRSRjdfMUVSZVpLUGYxT1Ric0kyR1g4ZXVJU0VkRndtQ2owdmU4X2VVXzkwc1FWcTNhbkJGZG5sb3NILXVTZzR4VDhPVlB1Z1pEaGJSSWlRUDdNR1po0gGcAUFVX3lxTFByYmphTU01V3VsVmVxOUN2R0tPQVFGa0FQMF9BOElabkR4REdlckRmekxORUlaRkVaMDh5TVlselVQRld1U3p5MEZCa1NmWkl2eDZGNm1WMVlDWFVwS19Ia3d5cEFJNnpOTGNzdnNjTDN4dGdFb3dBaUdUalREbEhxelhfbGNsQmVET0pNay15V2p5ZjZDZkJKbU04Tg?oc=5",
+      "published_at": "2026-08-30T07:54:12+00:00",
+      "country": "Guinea",
       "category": "Politics",
-      "importance_score": 21.18
-    },
-    {
-      "rank": 2,
-      "id": "124c38cf547dc1f8",
-      "title": "Niger: Coup fear as Gunshots rock Presidential palace, airport",
-      "summary": "Niger: Coup fear as Gunshots rock Presidential palace, airport Daily Trust",
-      "source": "Daily Trust",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUWZSRm5EeFdsZUozRllaMGJHT21COXRaSzZPZ1Nmc21jMEVESG5qd0ZYVUF3WnkwT1VISWo4TERxaEVMUDJYUEp5MU0zLTRXZEY5SjZkQWMzMk90aEtscUFkWDAxUS1COEVUWks4aDNjZUhiV21JcmpGUE05N2N1QW15ekNWN0hlbWhiOA?oc=5",
-      "published_at": "2026-08-29T10:09:11+00:00",
-      "country": "Niger",
-      "category": "Politics",
-      "importance_score": 20.18
-    },
-    {
-      "rank": 3,
-      "id": "a145d40670e7f74b",
-      "title": "Moody’s Downgrades Senegal as Power Rift Amplifies Debt Risks",
-      "summary": "Moody’s Downgrades Senegal as Power Rift Amplifies Debt Risks Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS2ViQS1mdndnS0psYlJXYkJLeml4Nmo2SFJPYVp1dEs0S3dWX3YxQjY5TjRLRzM2dDhoQWdKZ0s2b2QwdDdmZTEwM0hybWFTb2hNNFNlSTVMaXlrQktBQjV1N051aEc2ZzV5bkJKUVlsbVpiYzliYTZHbGRQdF9IRFJMaUhQLWU2RkQ1YlYtT09CbkRROGZaUWVfZTR6NFBSeENDUmNaa1hpdWFaZzI2a2ZMVHowNmpDX2NremNRTGpRMHg0R3c?oc=5",
-      "published_at": "2026-08-28T20:51:00+00:00",
-      "country": "Senegal",
-      "category": "Economy",
       "importance_score": 16.18
     },
     {
+      "rank": 2,
+      "id": "f67765054dd03ee4",
+      "title": "Renegade Soldiers Attack Presidential Palace and Airport in Niger",
+      "summary": "Renegade Soldiers Attack Presidential Palace and Airport in Niger Mwakilishi.com",
+      "source": "Mwakilishi.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0ZjcVVqLXk2UEFEa0Z1UDh1MXZlWjlKNXlQWWMtTGxXY1cxVDBpWE5zRXdrY2RYbVNWeWxyd1RoV18yRDRtcFBnMmtTWXNENXhWcUgtblpPZTgzRWNXQ3FnSk1ncFBialNxN0VpRHRFX2d0Vk83bVd2M0F2WXZ6cTlhQ2tHRF9FVDFUQllGYjg1SF9lLUVLR21uMlhjX0Z0WGEwX0YxRQ?oc=5",
+      "published_at": "2026-08-29T22:30:46+00:00",
+      "country": "Niger",
+      "category": "Politics",
+      "importance_score": 16.18
+    },
+    {
+      "rank": 3,
+      "id": "1fd43a3939ff9fc6",
+      "title": "EnergyNet bets on Nigeria’s reforms with global investors’ platform",
+      "summary": "EnergyNet bets on Nigeria’s reforms with global investors’ platform Premium Times Nigeria",
+      "source": "Premium Times Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRWt4bjhvOXlIVUNPQlZTWE9TMEdpUUJmQ25uR2M0YkNZcXMzY0pDcjVMQ3RESkcySnBfYVlkdlFxY0Q0Mm1RTFRQbWV5SFZLRWxuUnlyN2w5Tk4xTFI3clJGZE1MOXNHX3VYQmlfaWdKUlVsREt2SGhBczFiNGFoXzZXWXBMR1B6dXg1N0hLZnRnWkk1WFVVU1NKdGEzMElDSXh0WnBieEhkak5rczN4YnVoOEs3Rk1OYkl6RGI1MA?oc=5",
+      "published_at": "2026-08-30T09:54:54+00:00",
+      "country": "Niger",
+      "category": "Economy",
+      "importance_score": 14.18
+    },
+    {
       "rank": 4,
-      "id": "85b73fd6f6ab6a9e",
-      "title": "Opoku-Afari: IMF programmes unable to address political economy roots of debt accumulation",
-      "summary": "Opoku-Afari: IMF programmes unable to address political economy roots of debt accumulation MyJoyOnline",
-      "source": "MyJoyOnline",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnRHQy1VbnlnanE2cXV3UTR6VXR0VjVfNUF6MWNkMXRWMU9CQk1tdy1YYlpQQzQ4Y09aTG1KaHNENDVtZHQ5dl8zcDhjVnNYcmVwblZoVExJLUdnN3pfckpBTFBWNzVqcm5zUFUyWDVKQlM2alNTeXQ4NzdjeGV4NDZrcXEtTUNTbHNfc1NIRS03alJhaXIwc2d5MjAzQnAwYUs3SUFrWjZvZEtfTElRX2hHd1d6U2ZJUXc?oc=5",
-      "published_at": "2026-08-28T13:07:23+00:00",
+      "id": "ebb7c496b30377be",
+      "title": "“Government can increase taxes to help curb inflation”, says Derek Essien",
+      "summary": "“Government can increase taxes to help curb inflation”, says Derek Essien Asaase Radio",
+      "source": "Asaase Radio",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkxGYTFoN3FuTnFOTVZWZEVCUzJVczJMRzRXS2h2ZjRzMGRzTnVBREtacGZEdzJzMmxDNlY1U0dQN3VRZjZEOGFuZXMwek5QNnZseFhzX0tyUWtiUDJyNVRtWG52ejdhekYtTUtOTmNaQ0ZXZkt0elozODl2Vkd6QjhjQzJ5OVpHaGEwMU1HbUpBYklEQzZkSm1HSQ?oc=5",
+      "published_at": "2026-08-29T12:12:28+00:00",
       "country": "Ghana",
       "category": "Economy",
-      "importance_score": 15.18
+      "importance_score": 14.18
     },
     {
       "rank": 5,
-      "id": "2e81e50e540d0ac5",
-      "title": "Niamey attack: \"Return to ECOWAS\", Shehu Sani tells Niger",
-      "summary": "Niamey attack: \"Return to ECOWAS\", Shehu Sani tells Niger The Guardian Nigeria News",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdFVaT2xFNnduVW1qMFoyZk5OQmZJVFBHM3BtLU4td0czWDBldjdNa0VXMUsxckNhSXc3dFUzdkJOUWlwakFNWFY5Y3NmN28yc0wycUlGY1F3X2tTTmx3c21iM0pPNUJSZmt3WmxDb0FsYlVBaDhwdUVsengxei1FdUpKSTRrQQ?oc=5",
-      "published_at": "2026-08-29T11:29:00+00:00",
-      "country": "Niger",
+      "id": "ff6f62f7ef753788",
+      "title": "A Borderless Insurgency, a Divided Response: The ECOWAS–AES Security Dilemma",
+      "summary": "A Borderless Insurgency, a Divided Response: The ECOWAS–AES Security Dilemma News Ghana",
+      "source": "News Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1VTZjBVM094Y3d6d3Y1eTR5ME4yeEl5b20yZkZxeEllNmhOV21Yam5FbTdHQ2xDYTlIaXhGbDIyOUo4QTBFQVpSV0UtQ3hhZDY2VWFfMDBHSGNNaW5Tc1k4SzdmSGZuSXVISUswRW1mUHNobWYtaUdfYndwUHdjZlZfbEwwMktDX2hXbUQ2MHV1dVlDajZ2aFRNenJaQWQ0d3c?oc=5",
+      "published_at": "2026-08-29T13:34:29+00:00",
+      "country": "Ghana",
       "category": "Security",
-      "importance_score": 23.18
+      "importance_score": 16.18
     },
     {
       "rank": 6,
@@ -107,57 +107,57 @@
     },
     {
       "rank": 7,
-      "id": "b7920012d275c166",
-      "title": "Subregional investment bank pledges US$2 billion to boost West Africa’s energy security",
-      "summary": "Subregional investment bank pledges US$2 billion to boost West Africa’s energy security News Ghana",
-      "source": "News Ghana",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb3Nmb1FiVmRpSmtxNmZRbUFHS1M3djdBZS1RZE9BSW45ZUQ5TW55bVNzUGcwTXktb2RMdGxWT3U2djR6TTFmWVJYN21JVXpYY2NSQUZra0VEUjAzb1IxNXNpVWhyMFVDQzI4OUFFOUZwTGpyMXRoWVpKbUJ4eElqekREVG93ZnAtdGdpLUFOQjFRd213Wnoxa0VLUDhpYjc4UHZnQkhEMVNCdmc3WGY1VA?oc=5",
-      "published_at": "2026-08-29T11:22:14+00:00",
-      "country": "Ghana",
+      "id": "2105a3655d7332c7",
+      "title": "ARISE Africa Summit Spotlights Innovation, Investment In Real Estate",
+      "summary": "ARISE Africa Summit Spotlights Innovation, Investment In Real Estate THISDAYLIVE",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2pWQzlCdXZOSk1lSl9MUXdJZFNIYVFBUXd1VE5SbTRnZ2VtSzEwRnNnUTVzX1pBZXZnb2c2VDdDcDBHM3NRaTcwOU53RDRydDBBWlNGYWdpcnhSSXhELXg0NWVsUE1BRS0zREhEZm43YzJ1SW5YcThEdUZQT21wbGFKVlZjdGVqM0FqOFY3WGwwOXR0R0o0OW1OaHl5VWFYMGszSndmWkpjb2s?oc=5",
+      "published_at": "2026-08-29T15:42:34+00:00",
+      "country": "Regional",
       "category": "Business",
-      "importance_score": 14.18
+      "importance_score": 9.18
     },
     {
       "rank": 8,
-      "id": "846583e55227e444",
-      "title": "SA braces for possible food price pressure as El Niño looms",
-      "summary": "SA braces for possible food price pressure as El Niño looms thestar.co.za",
-      "source": "thestar.co.za",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjh2UjBrQ3dqcEtsUGlDbkQwdXRxYlpwWkpFUUpCSndkTzNjVU9CZHhObmdOVXdwNl9PVU5qNVlGaXo0QkJOOGk4RjJKQmNfbTRyMndVS2RoWHBSdlhPOTNkazZGN1lkSVlqdUlNVmRiT2FWa3dnMnBsZVlGejdkazdzS0c0dzViZnFOS202MWFSLVRRd1FCQg?oc=5",
-      "published_at": "2026-08-28T14:44:56+00:00",
-      "country": "Regional",
-      "category": "Climate",
-      "importance_score": 3.18
+      "id": "2cac5ed8195ae972",
+      "title": "Guinea-Bissau chosen to pilot ECOWAS community health policy",
+      "summary": "Guinea",
+      "source": "MyJoyOnline",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFhYVE1uUzVSS2JKOHNLcG80akhodGhDVWNNMG9rbDc5R3h5LTQyWHZJNl8wMnJON1h2bUFtSDNqSEhaWXNjSlNTTEc2NFByTGZwQU05eEpIcXVMZUhpaG5vWWlPMnJjeHVNbjFXNFZkUlZTOEJ3MVRqdEFBUUVZN1RfNE9wS2pTelROaDdhbGE0Y00?oc=5",
+      "published_at": "2026-08-30T00:32:00+00:00",
+      "country": "Guinea",
+      "category": "Society",
+      "importance_score": 10.18
     },
     {
       "rank": 9,
-      "id": "a3c8c9e069f81b06",
-      "title": "Fighting erupts near Niger presidential palace as security forces battle attackers in Niamey",
-      "summary": "Fighting erupts near Niger presidential palace as security forces battle attackers in Niamey Business Upturn",
-      "source": "Business Upturn",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUw2aGYwajBsVENPbHRqd2ZobFpuc2dLQ09yM2FVbmZLVWJZRUJFLXhIZ3RDZUh1N3oyOTJKQVlpRlBYZ1NCbnNZa0ZUSUtIaTZaRkxPcGFVZUphdE9xU0hUTFRxUDZsYUltR0p5V1RCaVF3VkN5eUhhNzY5X3FsQmhmc25PZ0JXNXJLR29XNEVtbUNYZF9QR243QzJEWFVuZUZwc0x3TWhWOXlQZkxQb2JzVWVJVENTaU1DZWZsRElkdUtYM3g5eWxB?oc=5",
-      "published_at": "2026-08-29T09:39:00+00:00",
+      "id": "6eb3eb5154aafb04",
+      "title": "Gold and uranium rich Niger shaken by fresh coup threat as soldiers attack presidency 3 years after military takeover",
+      "summary": "Gold and uranium rich Niger shaken by fresh coup threat as soldiers attack presidency 3 years after military takeover Business Insider Africa",
+      "source": "Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZW94bmNwcDNFb0xOdXk2b2VMbURKWG54VF9qcVl0ZGNzbHRUazJVSUkwR2tRRU8wa0F1MGYteGZCYWlLR09vbkpOZGlQQW4zLWxwRjdBclU0V2wwQ1VVa1hfVllmenZqczZpN0swR1lSRnpreWhpaGtjbDJKYVBmQ3lvWS1tTkp6dHdaSG9tVDhqOGdra3g4QTB2a0c1UnFXQUd2YmdtLVZBNTVNTVRPR1RESUVJS01TcWs1bThnMG1LLXRndjNxZi1kRWhNN3FpSzFEUzhGa3lRdDli?oc=5",
+      "published_at": "2026-08-30T05:00:00+00:00",
       "country": "Niger",
       "category": "Security",
-      "importance_score": 20.18
+      "importance_score": 23.18
     },
     {
       "rank": 10,
-      "id": "515a0c30f9e42d27",
-      "title": "Ghana Prepares To Bury Ex-Leader Rawlings, Nigeria wants ECOWAS restructured and more",
-      "summary": "Ghana Prepares To Bury Ex-Leader Rawlings, Nigeria wants ECOWAS restructured and more The Guardian Nigeria News",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNVRDdENNcEVBcFA1WEpIMm5YQzZMb0NUcnlKRXhDVUlrbm1VbEY2Y0dYWF9jQ1k1dUtJWG8yUk1yVzZDWGVBYWdURS1ja2xrLWJfdTdiOVRiS2hxeVQtcWtvYUpWUWZHTWk0LWVwcGc2VVA2d281YnVUT2pNR0hxNThoLWV5Q25lMnhQYjFEaVlta0szX2lra011ZzNHR3JuMENGLVc4bjNXbGNN?oc=5",
-      "published_at": "2026-08-28T21:58:57+00:00",
-      "country": "Ghana",
+      "id": "cf856235aa4388c5",
+      "title": "ECOWAS Moves to Tear Down Trade Barriers Along Abidjan-Lagos Corridor",
+      "summary": "ECOWAS Moves to Tear Down Trade Barriers Along Abidjan",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONkIzdTUtVk4wem5za2k4bTVVWDlWVkZkUktkNGhzVjdMTFQ4cnAxSjlFdUxHVUtuWGVwUU90RlNkcFF0Zm43djQzSGNWTHVzOGpwSGpvQU02ZFdLRUNMeXVaSi1mbExnU00yN2pyTklUcEpySGJ4XzVLcHA2eHd0SXV4Qmt0aHowejFZVnJyVUpjRFVwS050SXpOSG9LaVZ2RWtjUXQzbnV6OHZKNGc?oc=5",
+      "published_at": "2026-08-29T15:00:00+00:00",
+      "country": "Regional",
       "category": "Politics",
-      "importance_score": 17.18
+      "importance_score": 16.18
     }
   ],
   "learning": {
-    "type": "Political risk concept",
-    "title": "Why currency instability matters",
-    "description": "Sharp currency movements can increase import costs, raise inflation and make foreign-currency debt harder to service. They can therefore affect public finances, business confidence and political stability."
+    "type": "Regional security",
+    "title": "Understanding the central Sahel",
+    "description": "The central Sahel commonly refers to Mali, Burkina Faso and Niger. The area has experienced persistent militant violence, military intervention in politics and severe humanitarian pressure."
   },
   "methodology": "Stories are collected from public Google News RSS searches, classified using keyword rules, filtered for near-duplicates and ranked using source quality, recency and political-risk relevance."
 }

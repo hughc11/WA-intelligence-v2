@@ -1,8 +1,8 @@
 {
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T14:01:07.340523+00:00",
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T11:44:47.304418+00:00",
   "title": "West Africa Daily Intelligence Brief",
-  "executive_summary": "Today's West Africa briefing is shaped primarily by politics, security and economy. Significant developments are concentrated in Niger, Senegal, Ghana, Benin. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
+  "executive_summary": "Today's West Africa briefing is shaped primarily by politics, security and economy. Significant developments are concentrated in Niger, Ghana, The Gambia, Burkina Faso. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
   "statistics": {
     "story_count": 10,
     "source_count": 9,
@@ -10,21 +10,21 @@
     "category_count": 5
   },
   "sources": [
-    "Benin Web TV",
-    "Billionaires.Africa",
-    "Financial Times",
+    "BBC",
+    "Investegate",
     "Modern Ghana",
-    "OGUN STATE TELEVISION",
-    "Seneweb",
+    "Punch Newspapers",
     "THISDAYLIVE",
     "The Guardian Nigeria News",
-    "streamlinefeed.co.ke"
+    "The Nation Newspaper",
+    "The Voice of Africa",
+    "Vanguard News"
   ],
   "countries": [
-    "Benin",
+    "Burkina Faso",
     "Ghana",
     "Niger",
-    "Senegal"
+    "The Gambia"
   ],
   "categories": [
     "Business",
@@ -36,129 +36,129 @@
   "stories": [
     {
       "rank": 1,
-      "id": "38f455807c71e50d",
-      "title": "NESG: 2027 Election Spending, Insecurity Pose Risks to Nigeria’s H2 Growth Outlook",
-      "summary": "NESG: 2027 Election Spending, Insecurity Pose Risks to Nigeria’s H2 Growth Outlook THISDAYLIVE",
-      "source": "THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPREJjZ05qMjV5aWxzSTNodUxLMkpSZHVLdWRnT2tFOGlHbDFLSF9aVjJUNVBOZ05STThUMTJsN1lWdEk1UTlnTHJla1RuQTBSOEdvajFITmlGNEN3NkhtY1NkdnBKdVNDMnoxYWNpU2hyUjl2TWc3Y3hDWVlSYVNnQ3prZEE2cGRPMjlDaTd0N21RTVltNmM0U1VMU2hrMk5lZ01kOGpra1owSzdHU19ZRWFJTWhpa2xXM1lj?oc=5",
-      "published_at": "2026-08-31T03:30:04+00:00",
+      "id": "08881b0e35445290",
+      "title": "ECOWAS president, Diop, preaches tolerance, respect",
+      "summary": "ECOWAS president, Diop, preaches tolerance, respect The Guardian Nigeria News",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU1dJRFJwYV9KTnJBdTFVZnNWdHlEVTV3Z2xsUjhLQkl6SUY2Q3JKMzEtb3A0bDlRakY4cFU2NEx2WkhvR0NvY3RKZUJXSzlfYjVKbVg5Zktuamh4QllnOGVuM1hnTHpUTWhTYXJLSjFGbkxsbUstOWg5WHFpZVE?oc=5",
+      "published_at": "2026-09-01T04:45:00+00:00",
       "country": "Niger",
       "category": "Politics",
-      "importance_score": 18.18
+      "importance_score": 21.18
     },
     {
       "rank": 2,
-      "id": "8140b195b4187d42",
-      "title": "Nigeria risks losing reform gains to election concessions, politics",
-      "summary": "Nigeria risks losing reform gains to election concessions, politics The Guardian Nigeria News",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUHRUclhjT29uUjU2ZUFWWWF6ajR4cXFTNHB3ODZocTZ4QUJEMDVRLWpnNTNTOG5kMmFzRV9hUmtUbklvZmZKYWlDZ2xjRWVHemVvSTdfczRIVEFUa2d2a3QtTnk3UlREZVpEWlNLY1UxQnhfa2lSV282S1EyS1gwTTJkMWhMOGZNUUQ3WjktZzdxNDFaY3VV?oc=5",
-      "published_at": "2026-08-31T04:33:41+00:00",
+      "id": "8bea34a77afbbb4e",
+      "title": "Nigeria advises new ECOWAS Commission’s president on regional integration, peace, security",
+      "summary": "Nigeria advises new ECOWAS Commission’s president on regional integration, peace, security The Nation Newspaper",
+      "source": "The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNci1ibmVSODdLZEQtWWtkU2VBNFROeTNadnZKVFpKMjhIR3dLSG5QVTE4d0xDN1dja2t5X2RKRHpXdUw3QlRJcmQyNHAtTnNUdS1PZHVfTF81cG01S0FRQTlHMjNxdVdnanF4T0ZLRmtMeGlJM1lWSWMxMTJ2eW12NUdnYUhKQU5rZkMwSFctanhMTWxGQVJCaTl0QnpwdWU1anNmcnRvVlpBNGQyRkYxaVRnT0JpRVBpbFHSAb8BQVVfeXFMTTN4MXVoM1AyV0g3U1dQSWMtZ3V2bXBpV1otMUJ6WF9RMHZFbFJ3NlFPVWF2Ti16S21kYlNJOE5VQVBjNTk3Z295UlNTR2NhQnJuYjBDMDlkbk5EaU9HQVlneS1PdFlCY1NXdHYydTZQTzMtdXI4MUZJbmtiRDhNQzg4bWVFT200di1xNEVtQWZxRUlXaUxudmtuZW5NU3pCY09tMGJZT01zS3BRMmlmbDNJbV9WaURnbGFmUUNlNk0?oc=5",
+      "published_at": "2026-09-01T04:48:08+00:00",
       "country": "Niger",
       "category": "Politics",
-      "importance_score": 17.18
+      "importance_score": 19.18
     },
     {
       "rank": 3,
-      "id": "a434b506f4a25d43",
-      "title": "Borrowing rates at 9%, debt and the IMF: Mamadou Kassé's warnings before the Prime Minister's policy brief",
-      "summary": "Borrowing rates at 9%, debt and the IMF: Mamadou Kassé's warnings before the Prime Minister's policy brief Seneweb",
-      "source": "Seneweb",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb3ZxZjlLTkx5NHdtUFM4WFViZ3ItSldQbndLLS1vcWR0ck9NVjItMEFSV214OV9DNXFwOXVKN0ZEMUtWdmxVd1J6SGNPZDdSb0V2bDQ4TTBhbENiRi1lOFlkMi1wWXlzRDJyS05DSHNmeWRIQnIxcVFCOGJ5WFJJYWZVVU1DZ0I3UVJRZXM2bVRnN0w2YlNib2FiSWNFZFpxNldOaDg0RmtvWWcwaWxWTTg2NjhQbWRZWXQ1U3cxWUVYbzFKOHllNWF5dG9feW10ZmJ2Zk8tMDZsLVIxa0dNMg?oc=5",
-      "published_at": "2026-08-30T17:59:08+00:00",
-      "country": "Senegal",
+      "id": "5d3f0523345d54f1",
+      "title": "Government to issue 4-year bond for future debt repayments",
+      "summary": "Government to issue 4",
+      "source": "Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYkwwYk5KOThwUzZlWTN6eS01OEJpM1dVVDJaNXVmSU5YQ0hvOVIxSDJwbVptUnpLcW5pajZGekFEQ2NpOS00YjZVdUR2S1dtUXJ6V2tJQXpEb2lURWMtZkcxTG1VQi1VenU0dlVINUdNenNUU285WGppVXd0dEtVV3Zaa1AtWVo0UWMtQ2NjT0RpQ0J3V00zcdIBlwFBVV95cUxOMTFkcERRRmlTalVEUzdWcmRJZEEzYnFJY3JqUXB0TktHelFaV2p4dVpzb0VpeWRTQ2d1eVh3d0ZIelZjOTRHanNxVDlsWnVLWWhUcjBENXdKZlNyMmVxRnNRam85em1qRFdJblBLWm1TOHJjZnBsWlQ5NEswSVM0eEp0bVJYNUJ5WG1senlrT2Y1TmRkb2Q4?oc=5",
+      "published_at": "2026-08-31T21:13:14+00:00",
+      "country": "Ghana",
       "category": "Economy",
-      "importance_score": 15.18
+      "importance_score": 14.18
     },
     {
       "rank": 4,
-      "id": "5abd98bd9fb41575",
-      "title": "IMF, Auditor-General and GoldBod: Who Should Ghanaians Believe?",
-      "summary": "IMF, Auditor",
-      "source": "Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX3FDaXpQZWgxdF83S2dsd18xTEdnVWk3dVFhTzhac2VlbjdLNnk1MUNISU1oaF96Q0JTQVNaNVRUWTlBT3BrNFNqRGZneEZ1TmRpZXoybWlaWEhhRGp1eDllS25haER1eXR2ZnJFeGwwRXYwcHgtTnpRYmJaSTBEdUJycm44UXNBdl95T3NoZXNweWZObzNrbHJ30gGYAUFVX3lxTE1qeU8tbk5ZUXZzdk9RR2E4T1FlRTZjVGo3SG5zSmVZM0QtTTZiZE5Oa0NkWVRNUmtpTEVTc3FTbklhY2VNelp3U19kaWhPY1RDOE8tWC1nVW9RZWNRQ3MzSnY2N19nQW1OTDJMMHBoODgtVVk2aHFUMTBmRTN2aTljZGNVUVFXUTcyQWJadmpXZUxGcHl2amNH?oc=5",
-      "published_at": "2026-08-31T12:56:19+00:00",
-      "country": "Ghana",
+      "id": "afd2926de52d8e95",
+      "title": "We’ll Keep Reaching Out to AES, Says New ECOWAS Chief",
+      "summary": "We’ll Keep Reaching Out to AES, Says New ECOWAS Chief THISDAYLIVE",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUJrcmVSZ2g1c09wWUVwYk1LdUoySzBpdFBhbGYzbDIxNko1TUJucTBzd3FOR0RzX2g5RGJtbnNrbVhHb1NFekZPeGlqUjlHWTh6VlpPenpNM1hhaW90WmEyZVhBdnRvMEMtUE9uLXdKbnVZWmp4bEtNR2lBNnVNMDg1elVzQXBqejRnemNWSW5XQ1pQdXc?oc=5",
+      "published_at": "2026-09-01T04:13:47+00:00",
+      "country": "Regional",
       "category": "Economy",
-      "importance_score": 11.18
+      "importance_score": 13.18
     },
     {
       "rank": 5,
-      "id": "51eb31bdadebf473",
-      "title": "Military cooperation: General Fructueux Gbaguidi meets at Pentagon to strengthen Benin–US security partnership",
-      "summary": "Military cooperation: General Fructueux Gbaguidi meets at Pentagon to strengthen Benin–US security partnership Benin Web TV",
-      "source": "Benin Web TV",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVTV1VzFXT0ZsWmthclRwcXk1UnFaQXlNdXRXTmRCaUxlTmhVYU9rXzJVSnZrUzZZVXZoRlVSU3hUaXVyX2pXcDNRVlVFRm9hVGU3TkNWTWJOREtPS3dnWFoxc3kyMFB0MGRYTm5CRDZsMVdGSHdBRkU4dDF5Qmt3TU50ZVZzYzlCRmpkZnpkTzh5bDNZeS1STXJhNzBNS0VJMlQ1b2FmakNRZ0hmTVhrdV96TlJCbWRZbVh4VDdxV2xKWGVDejlDZkxidlVrcmxG?oc=5",
-      "published_at": "2026-08-30T22:14:45+00:00",
-      "country": "Benin",
-      "category": "Security",
-      "importance_score": 15.18
-    },
-    {
-      "rank": 6,
-      "id": "a64281934df682ab",
-      "title": "If NDC founders were here, I bet they would have staged a vicious coup over the $1.7b scandal",
-      "summary": "If NDC founders were here, I bet they would have staged a vicious coup over the $1.7b scandal Modern Ghana",
+      "id": "389457474722fbf4",
+      "title": "The Fire Next Door: Why Ghana Cannot Afford to Ignore Togo’s Institutional Coup",
+      "summary": "The Fire Next Door: Why Ghana Cannot Afford to Ignore Togo’s Institutional Coup Modern Ghana",
       "source": "Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGVMQm1wNFhGemdXNmpvLWRkVGdsdXpZM1dCMnY1V1BxMF9mQmIwdUUyaDRaX0NFMDBJN0NXeU9UTHU2aUpLMFV4S0Jwbk1BUDJBQnBSZFVaVk0wQ3VLNGU0UXpaY3JjLVoweC1Bc3pNZnFUZVgwTHpLSlRhOEpLaFJiSm5ORGFOTTNCdW1tZVhJWnF4MTNHUNIBlwFBVV95cUxQOHkxU1hkS2lkZTJQcTJpTm9EM3pFdV85alVWRUoxR0dkd0ZJcG5qZXJ1SUZSZ0daM0xzN2lSNjVJWnN2S3o3YUtrbmtoTXBXMDROQk5hX2hDOG14aTBpWkE5WmRPUUZwR3NUeV9iNTVwRzlVRW5zbVp5MTlrblU4YXFmcXJDaC1XLUJPZmNPMFM0YmFham5n?oc=5",
-      "published_at": "2026-08-31T12:56:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTzNRaHNSWjVOQjlac1U1SzJybDQwQmtOZmFSRkxDM3kwbG4wMXMwaFBDU2F2a2R1Slg1YXNVRUNVSVdyTjg3QXJQYjN6LTR0U0pGMU56Z01nWmhJck5yOWdDSHVySFZBNi1URUJrRTEzZGtpVlp0anY3MzliS3kya1Mtd19JWm5wRGxLRDg0blJQUlFmelHSAZQBQVVfeXFMTTZCczZtS1JFSDBabklWa1RvMl9NeTdaQUFHckprd2dkOVhmVDRSLUxCMUJkdzlUYmhrVWxfV2hQOENsNTY2R244MTBqOVRoODhqLUtlZ3h2aFJBSkxoYTJPdUlfc2pGOXBJQXBpVE82YkhYNVBKNnRPZ0FaWUdxUk5xMkFMM2ZGU2NXSHkzQWFsaTQteQ?oc=5",
+      "published_at": "2026-09-01T10:43:30+00:00",
       "country": "Ghana",
       "category": "Security",
       "importance_score": 14.18
     },
     {
-      "rank": 7,
-      "id": "c072d6b2c73cb394",
-      "title": "How Magic Johnson turned a Starbucks franchise investment into a $200 million stake in the Los Angeles Dodgers",
-      "summary": "How Magic Johnson turned a Starbucks franchise investment into a $200 million stake in the Los Angeles Dodgers Billionaires.Africa",
-      "source": "Billionaires.Africa",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ0xMNDZZeTdPTGU3VFpfMlJQenphZDVwTDItanRyclJ6ZHppWnctRjBuT21ESzY4TzJUanJLQjFiak5WZnNEdHltYlBHeThfQW42emJnbjczV2tWbm9OcFpkQWNXbzVaYlZGQWU0dnpEVlIxV09EeEZZZ2lFYUJKQzZQX3ozQUdqZ1luYmJBMTZndElYZ282VHp6V2FLQnhtS0FNVVp1WFpWcnB2OXZlM25OV0FPSVVPenlycndJVHhBWFRZbllPS01Td202R1pDSE5XcGZfcmtoclE3ZWxwTER2OXZtQ01k?oc=5",
-      "published_at": "2026-08-31T10:40:58+00:00",
+      "rank": 6,
+      "id": "7c2347bec23307cd",
+      "title": "Do West county borders make it hard to 'belong'?",
+      "summary": "Do West county borders make it hard to 'belong'? BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ib2Q0NXJRYko0OTNiVFRDZUU4TnZPekpfblUzczFKUU1nVFhrMUdoQkJBdXdBTC1OTWsxeHpYdEEwcmpaSjhDVjN3ZGhWY2xHY3Q3bkZ2NlFfUQ?oc=5",
+      "published_at": "2026-09-01T05:08:00+00:00",
       "country": "Regional",
+      "category": "Security",
+      "importance_score": 12.18
+    },
+    {
+      "rank": 7,
+      "id": "7e060ef5a5538b2a",
+      "title": "Government Engagement in The Gambia",
+      "summary": "Government Engagement in The Gambia Investegate",
+      "source": "Investegate",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWhKMExhTVBsZDJXY2tmMzg3WUYxMXp2RldSZFkxSkkyRDJ6ZEJiYXdhUy1NbGZlWDNTNVRmOVJpU0x2TkpDZUxZaHVEVHhERmtjelczV29Td01lZ1k3YjQyVUJEaGJicl9jdThXOXk5UFJibE9UX2lvc0tZNXJyY3c0WHFUNjdhblBhaHZaYjhzbHo4VUw0VklGN0JPLUc3S2twT3l1VUNSUFdDU1JGNU5JUlh6M3Q2THg3aw?oc=5",
+      "published_at": "2026-09-01T06:05:52+00:00",
+      "country": "The Gambia",
       "category": "Business",
-      "importance_score": 6.18
+      "importance_score": 8.18
     },
     {
       "rank": 8,
-      "id": "f1d03aee799f36a3",
-      "title": "South African Weather Service Forecasts Severe Conditions Impacting Regional Trade",
-      "summary": "South African Weather Service Forecasts Severe Conditions Impacting Regional Trade streamlinefeed.co.ke",
-      "source": "streamlinefeed.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFJQWkhhOHBzdjFpWFVWbXZLSU1WcjhZekFYWklEWFJxWWJlV2dGMUIxRW1PakxsdHhRWEhWRjNQZ2xBdkJyZkc3a1gyOXNXaWhoa0dSOGFKelZHTEY1ekRWZkVsSEJtajBYQTlrb1NLTEV2Q1E4UWl6eVhfN3U5eW5mbVkyVWMxMzhtVDZIWF85QlFrbElrU1ltYXVuRXNYeHhVRzVGT3VGZlU?oc=5",
-      "published_at": "2026-08-31T06:04:19+00:00",
-      "country": "Regional",
+      "id": "94b5c589cd6aab2b",
+      "title": "Burkina Faso Pineapple Farming Turns Harsh Sahel Land Into New Agribusiness Opportunity",
+      "summary": "Burkina Faso Pineapple Farming Turns Harsh Sahel Land Into New Agribusiness Opportunity The Voice of Africa",
+      "source": "The Voice of Africa",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWVnV0J0eWYzcTlaUmlSNDZaSTdlRWt6MF9PVWd0bWF6SzJoeVJnOGJjbWhOZDhiR0s0X3lCdnlidURnM3FxM3VpUEkzM2luTWFpMmpMWjRhVHNiWUY2RHhQdksyX3V0Wmh6MVA2VWtqZkhqZ2J5NnJpOG5uS21pcTMwUTRIOHprMGhhYzdodnBZT2I0endJTHcwR1pBbWhsYmpaUjZVeDZqUFlDcU9nbDlMWXZMZk9ZWU80SjREazNpaWZjQVV3?oc=5",
+      "published_at": "2026-09-01T07:15:12+00:00",
+      "country": "Burkina Faso",
       "category": "Climate",
-      "importance_score": 6.18
+      "importance_score": 5.18
     },
     {
       "rank": 9,
-      "id": "7855a04e85f92814",
-      "title": "Niger regains control of military base after coup attempt",
-      "summary": "Niger regains control of military base after coup attempt Financial Times",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZldjMUkza2N4MHdLVzNUSndZd3hSZVhDckdaX1Z3WEd6bUhVVk5hcXROU1o0c1MyNllzNE9kWkw1RnE3MlM2YUNvM0M0aVpnbjVUcW1kVGpZYUg4RVE4S1NuaGN6cjNxYzZVRk5NVVpFYVhyX0tJWktoZ1JEMlVvMF92dEM?oc=5",
-      "published_at": "2026-08-30T14:43:12+00:00",
+      "id": "fd4678cd60a679ef",
+      "title": "Fisheries reform crucial to Nigeria’s food security – ECOWAS expert",
+      "summary": "Fisheries reform crucial to Nigeria’s food security – ECOWAS expert Punch Newspapers",
+      "source": "Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOU1STXB3bms0U3ZYdmlsZkVSTm52MWdQTG93TEJyV0pMUDF3T0xjZlFNLUs4QUNKaG9WY1lNQ0otbk9mVmt5TlJsV3lfdGdsWkNiand0Rm4yVHcwRjRjWkFPS1RBTXJQS2JYeWh6dHpZSmlVZHZBeXZ0OWNDSTJhZlAtcWlQWlBmRTE0WQ?oc=5",
+      "published_at": "2026-08-31T22:03:05+00:00",
       "country": "Niger",
       "category": "Security",
-      "importance_score": 24.18
+      "importance_score": 20.18
     },
     {
       "rank": 10,
-      "id": "1832d9e1ef18ee4b",
-      "title": "Gen. Birame Diop assumes office as ECOWAS Commission president -",
-      "summary": "Gen. Birame Diop assumes office as ECOWAS Commission president",
-      "source": "OGUN STATE TELEVISION",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVjh3cmZuRFVwTF8tTXAzcHZrWXA4djhWTzJMb1hLUFJTNDNwQkpnVGpFMTNOTmJvUFdWZUZkSjE1UUJyS2ZsTngwZ0Rld2RQbkN4NHhCVkVHVWRHOHlKRlVYUk9uNERCS0xTcV9WZDlJS19WMnNjZlNhV0xSX3NjaVlHUmtLNk1MV09ZQXpEblNYWk51ak1oWQ?oc=5",
-      "published_at": "2026-08-31T14:00:02+00:00",
+      "id": "6a2cd815a6bb1767",
+      "title": "New ECOWAS President vows to restore cohesion, deepen AES ties",
+      "summary": "New ECOWAS President vows to restore cohesion, deepen AES ties Vanguard News",
+      "source": "Vanguard News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVFBVaVNBUDFVY1lNdm5zVU50cjN6eDdrbGJSdDAweUluMWgyb290VGhVTVYxZzBPVUVnenAzSWJEOWxQNG90NzJZTHo3T3BLZVRTTUxuWmM0bkhUSlhsclBEQTdldUNVT29kWm5KYUJXUnc4VEdxdnNLWmpDbmVfeTlFUEU4Z0kzeEU4WTliTFZoVGxzRXVJWngzV20xZTDSAaQBQVVfeXFMUGRqbXN5QkIzS0dvaFVtOXhTTTFsdHNQS3cyeFZYUlp2VWFNdC0tNUt0cUQyN3VoT2tvS0xLMkJDeTl4V09iVHl6RWtKOGpYc3pEdWpjYk54d2x1clZoblFvQTBtYVV4bExyenEtVjdtb3drT1RXbVQzYTNXLTJ6dkhOcGEyN2lEdUhrWV9qcHlOY3pETjd5Q1FnSERHS2k4aS03Rnk?oc=5",
+      "published_at": "2026-08-31T16:43:57+00:00",
       "country": "Regional",
       "category": "Politics",
-      "importance_score": 14.18
+      "importance_score": 17.18
     }
   ],
   "learning": {
-    "type": "Economic development",
-    "title": "Why infrastructure affects industrial growth",
-    "description": "Reliable electricity, roads, railways and ports reduce production and trading costs. Weak infrastructure can therefore limit manufacturing growth even where labour and natural resources are available."
+    "type": "Political economy",
+    "title": "What fiscal reform means",
+    "description": "Fiscal reform involves changing government spending, taxation or borrowing to improve public finances. Although reforms may increase long-term stability, they can create short-term political pressure when subsidies are reduced or taxes rise."
   },
   "methodology": "Stories are collected from public Google News RSS searches, classified using keyword rules, filtered for near-duplicates and ranked using source quality, recency and political-risk relevance."
 }

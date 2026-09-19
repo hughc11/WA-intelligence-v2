@@ -1,24 +1,24 @@
 {
-  "date": "2026-09-18",
-  "generated_at": "2026-09-18T11:24:10.789306+00:00",
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T11:07:51.629482+00:00",
   "title": "West Africa Daily Intelligence Brief",
   "executive_summary": "Today's West Africa briefing is shaped primarily by politics, economy and security. Significant developments are concentrated in Niger, Senegal, Mali, Ghana. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
   "statistics": {
     "story_count": 10,
     "source_count": 9,
     "country_count": 4,
-    "category_count": 5
+    "category_count": 4
   },
   "sources": [
     "Businessfront",
-    "Euronews.com",
-    "Law and Society Magazine.",
     "Modern Ghana",
-    "Myanmar International TV",
-    "Reuters",
+    "THISDAYLIVE",
+    "The Diplomatic Insight",
     "The Guardian Nigeria News",
-    "Western Cape Government",
-    "thisdaylive.com"
+    "Zawya",
+    "bloomberg.com",
+    "standardmedia.co.ke",
+    "thereporterethiopia.com"
   ],
   "countries": [
     "Ghana",
@@ -28,7 +28,6 @@
   ],
   "categories": [
     "Business",
-    "Climate",
     "Economy",
     "Politics",
     "Security"
@@ -36,27 +35,27 @@
   "stories": [
     {
       "rank": 1,
-      "id": "5ae85cc90e2183c2",
-      "title": "ECOWAS urged to finalise regional AI election framework",
-      "summary": "ECOWAS urged to finalise regional AI election framework The Guardian Nigeria News",
+      "id": "50186c53ee014617",
+      "title": "ECOWAS pushes Biometric ID card toward region-wide use by December",
+      "summary": "ECOWAS pushes Biometric ID card toward region",
       "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmRXVTJ0X3VZaUN4SWRvdWJyMjZ3WHdYWGozT1BjNHFHby1HUjY2V0F2RDZhM2hvdXgwSWRxMGlWS1c4OUZ5eFhxclYtLVZncWMzbE1hMUJGX1ZHVWQxYnhQT1UyUDREQ0NreVhialhkWW9sZzIxV2ZIM0UxLVlfeU5ncl9JZ2tX?oc=5",
-      "published_at": "2026-09-17T12:48:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcnVSTVRGYmV6Q0wzVDRhWGpabjVsSHlEYVY5SExzZFFnNWtrVEFaMUJ6LWQ1VWhRMENKbk5DaTJTYnpnbHBOQkh6eno5cG0zQmQzVEVCYUxQYUxNWV9WRVpvOWFYdENaQnRKNVhlM1FDVzFBd1BhbjJwNnE3YWhuVjY5NE41TDB6Z2NFNXdhVVNPVEk5Y0I4?oc=5",
+      "published_at": "2026-09-18T13:44:00+00:00",
       "country": "Niger",
       "category": "Politics",
-      "importance_score": 22.18
+      "importance_score": 17.18
     },
     {
       "rank": 2,
-      "id": "aae0425f056cf712",
-      "title": "Nigeria Debunks Alleged Support for Niger Coup, Reaffirms Commitment to Democracy",
-      "summary": "Nigeria Debunks Alleged Support for Niger Coup, Reaffirms Commitment to Democracy thisdaylive.com",
-      "source": "thisdaylive.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUVWekZ6TVdmWkxyRUo4TldPUHVzNEdBeFByNVRfaXVaVmcxOWhyYy04OExuakJtemV4ZUwzbG5sbV9WMUdLTEUwYzlaN1JJZ0d3dU5XMHBvOUVMblk2LThXTXNmZnhlazZxcE82dE1tLVA3eUhOR2hzei1oZEJJdDk1NWs2VkVrSkNaQjFfbURrX08yLTJ2LWgxQXhsMnBnUk1OdUdIdzBfd0xUTEdBV0loTWNRbDFaTlNoOQ?oc=5",
-      "published_at": "2026-09-18T00:04:45+00:00",
+      "id": "573d327e2cc41f95",
+      "title": "2027: Only 443 women among 4,408 candidates cleared by INEC for NASS elections",
+      "summary": "2027: Only 443 women among 4,408 candidates cleared by INEC for NASS elections The Guardian Nigeria News",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMENzcmVYTkQzZkNfTVlJMTV4d25uZnRnMDBMcGRxMHBWQU1sTEl6Ym84QUpVV0dpZldQZkJmVHZIYU1KWWJqUld0SGdic3hqOXdtc1F1eXcxWU5MNV9QbjdWVkpvbUdNS1poZDZYT2Q2Yi12dWd1TE1VcGc1c25vdmVQQ012Ukd3SVR4anhsTTdZR0hMRWpsNUs0VWdpbDJfYnNFUmxUb194QQ?oc=5",
+      "published_at": "2026-09-18T12:50:00+00:00",
       "country": "Niger",
       "category": "Politics",
-      "importance_score": 16.18
+      "importance_score": 17.18
     },
     {
       "rank": 3,
@@ -72,93 +71,93 @@
     },
     {
       "rank": 4,
-      "id": "bef768e33a5c316b",
-      "title": "NUPENG warns NUEOTDN over malicious attacks, urges government to address economic sabotage",
-      "summary": "NUPENG warns NUEOTDN over malicious attacks, urges government to address economic sabotage Law and Society Magazine.",
-      "source": "Law and Society Magazine.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRklpTUF3ZmhLUDhLNmx1Ykg1b3RJWUEzczhacGM4dXV1cE9ZWFhTZnMydkRXb29iUXpNVWE0eWNjR2ZybFJUaGI3VEd2RW9BTnBsWmVIYjNHaTdQbW16aElBcDhOaXNFdGIwMFI2UUtUYWhPem15aVRZSUlmZ3JKdkh6Q3VNTGlod3JyZUkzLVI2Mmh2MUQxWmNQV0xCOWg3SXdKTjZORWJhVEdGcERPSDhjd040NnR5YkZFaEZycXlfUQ?oc=5",
-      "published_at": "2026-09-17T16:13:28+00:00",
-      "country": "Mali",
+      "id": "26ec7912208abc49",
+      "title": "The President of the Economic Community of West African States (ECOWAS) Commission Receives the Ambassadors of Qatar and Sudan at the ECOWAS Commission Headquarters in Abuja",
+      "summary": "The President of the Economic Community of West African States (ECOWAS) Commission Receives the Ambassadors of Qatar and Sudan at the ECOWAS Commission Headquarters in Abuja Zawya",
+      "source": "Zawya",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPbHJMZjB3dHlNWXRUN3lwaUlmWDNkZC1zN1QtUkJZeFJrQmg4Zzh1akNQc3RKeDZlVWMyUm5tV1BBM0ptS2M5YXhBQ25BdkdTRXJfaDF2aXlUVWgwM2U4aEUxdlJCdE5RRW43NTVZcmswLUF4WkJSTXp1MEZvZld3Q1RsOHhBRU5YcGtKaTNUb2lCdjdPZUlRcW5xSzlwQnB5aDJ4eGpEQmdjWFJhRWtGV0hYWi1NdzhxWE5KMTZIcWFWR3k2X0NaVzN3MTJxbDhMQ2hfWUx0Y2tfZzhGcDVRcFowUi1MZ2pJaVFFT1Q1UExYel85ZlppRV9PTUNBSVNLV1lMa2xiSWx6Y3JzZlpkeG1GVUpkRkZsbVhxMkVFUk00Y0JOalFOS2tqSW5kXzdWNGhPY2piY0RfTUVPX1JzM2lGUlE5MVNieU5LZlVOUUlabHFNMnNPTXpkNlg?oc=5",
+      "published_at": "2026-09-19T09:21:00+00:00",
+      "country": "Regional",
       "category": "Economy",
-      "importance_score": 15.18
+      "importance_score": 14.18
     },
     {
       "rank": 5,
-      "id": "a8ac0554733f0b25",
-      "title": "Why Some Ghanaians Express Support for Military Coups: History, Reality, and the Questions We Must Ask",
-      "summary": "Why Some Ghanaians Express Support for Military Coups: History, Reality, and the Questions We Must Ask Modern Ghana",
-      "source": "Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLU9jLTBiNy1VMHctdlk2RHpLaHYtR2RBWllPSkJnMDZZR3ZOOE9TaFVmYWVtWXVfa0lfb3k0VXU5R3duX3ZhYlFDSkt2LWJvWEkxZXJ4UUtzZHo1ZkdSdGJIcUpuaTg4amp6MXhqVkY4V2ZvM1ZOVldmeHJqVFZ2aFJKYm5iSFJqRVRmWjkwVG94a2V3Q1p1WEVB0gGYAUFVX3lxTE1MUWM5VWFNYkc3cDVDbmZWTzhWcGtOU0tEUnpXdWJWWF9taTZRSnlVTjlBUlpMNmJZRmdsTjVpRTZTbVQ1RGlfejJMRjlaUHYtSTI1aTh1TFRrOU93eWY4Z1dINUdIWEhfbzZ0SjJEeU5qRnR6YWxPX3NRbGJoRlM3VHZfUU53T3NFeWFmdmRiSVVBUWg0bmxi?oc=5",
-      "published_at": "2026-09-17T15:33:01+00:00",
-      "country": "Ghana",
+      "id": "d78bce4358b40ccf",
+      "title": "Death toll passes 100 soldiers in Mali attack last week: sources",
+      "summary": "Death toll passes 100 soldiers in Mali attack last week: sources standardmedia.co.ke",
+      "source": "standardmedia.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQckZwZXlPZWQ3Yld4UThrOHh6dmx0Q0JDcWtMbWhvY0hZaUp3R1NpNjhwUU9Zc1hWWVY4Yk0xeEo2NzJkSHdsLVdtWDVydXlxU01zcDhiTm1xLWxiYmtINmMxbG5lSHNESmN0am0yQmJ4aGhoVm83bEwwMUZhOTJKYWs0a0xzcEVxV2RPMm52SjFRNXM3RmNubWtOOGJxcXZRZ1FWYXgtWVBOM2VuczJfNjJFUWxUSElmeU5YeXZHSzF6ZjQ?oc=5",
+      "published_at": "2026-09-19T09:05:15+00:00",
+      "country": "Mali",
       "category": "Security",
-      "importance_score": 18.18
+      "importance_score": 13.18
     },
     {
       "rank": 6,
-      "id": "3b719f46b3640b7d",
-      "title": "How a Saudi pipeline attack is putting Europe’s oil security to the test",
-      "summary": "How a Saudi pipeline attack is putting Europe’s oil security to the test Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWc0UUlrZk1rVC05TDYwR2pkYklPeGhqNDdXWm40SFdMaFdnRE9ybFJmbDJqMVAzSm5DT0ptRVhzVlZnc2dZaDd1dVVncG1fZ1llUFh1N01aYlpJNG5rN0lpYS1CUktVV3dCbHAzbE1zLUNYNWlJS2lTcUdtZDZDbWp5ci05T01TZ25fTUo0OWhDeDB6cE9TNG9sd0V4Q21CUEh1NnNoTGFaQ2hpcm9CTEh3a1dBc0wz?oc=5",
-      "published_at": "2026-09-17T15:00:38+00:00",
+      "id": "ede9f7db07d844f5",
+      "title": "“Food Security Must Equal Global Defense”:",
+      "summary": "“Food Security Must Equal Global Defense”: thereporterethiopia.com",
+      "source": "thereporterethiopia.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tSEFISE9PbWdSazlNWFdLM0ViVzhJczdJWUtjMjNxeERPYmkzaVlvVTBORXd2T1hzNnk2Z2l0UF83a1BySGlPZkhmX1BYNUl1OWJyRA?oc=5",
+      "published_at": "2026-09-19T07:37:04+00:00",
       "country": "Regional",
       "category": "Security",
-      "importance_score": 14.18
+      "importance_score": 13.18
     },
     {
       "rank": 7,
-      "id": "62b75fef6f6f4e33",
-      "title": "Algeria, Mali revive ties with focus on investment, energy and security",
-      "summary": "Algeria, Mali revive ties with focus on investment, energy and security Myanmar International TV",
-      "source": "Myanmar International TV",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeGxVZHB4Rng0MzhJYnI2eVBJYzJ1a2FYNG0tME53MWotbDRnX3VzdjhIbkxzTkVoLXk0MzdRRDhnZTQtZ0hablZVakhhUFVrOHlJdm9MenFRbGFPcG1Rb0NBeFNpZVRHbGtBWm1UVXpOdFNBTG5wSU1Gd2sydGctMXZQRHdaQ0FCY0JuS3NVSE53bGExdEZKRQ?oc=5",
-      "published_at": "2026-09-18T06:40:20+00:00",
-      "country": "Mali",
+      "id": "5234abf7aa3e58b2",
+      "title": "Volta Regional House of Chiefs Secures Major Investment Deal With Moaming Yuantian Food Co., Ltd.",
+      "summary": "Volta Regional House of Chiefs Secures Major Investment Deal With Moaming Yuantian Food Co., Ltd. Modern Ghana",
+      "source": "Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlVLeXVUS1JVaUhlVnN2MDNUNlJOMzcyM3B2VXpKSVhkRS01TmdjRTBHc082MXdySnJzVG9PVmVvZVF2a0F0TzNLZWpIQ2tkejF1ajBDb1JpSkV2U0F0Z0J5NnczVFd1ZVpjcVlSdWZuRFA0LXNqVlkzaUJXUE0xaXg0bzBGNS1aeGEzOUhPMHExdHk1d3AxcEVGZ9IBmwFBVV95cUxOMlVLeXVUS1JVaUhlVnN2MDNUNlJOMzcyM3B2VXpKSVhkRS01TmdjRTBHc082MXdySnJzVG9PVmVvZVF2a0F0TzNLZWpIQ2tkejF1ajBDb1JpSkV2U0F0Z0J5NnczVFd1ZVpjcVlSdWZuRFA0LXNqVlkzaUJXUE0xaXg0bzBGNS1aeGEzOUhPMHExdHk1d3AxcEVGZw?oc=5",
+      "published_at": "2026-09-19T08:24:03+00:00",
+      "country": "Ghana",
       "category": "Business",
-      "importance_score": 14.18
+      "importance_score": 8.18
     },
     {
       "rank": 8,
-      "id": "005166d85fcaa1d9",
-      "title": "Western Cape Agriculture celebrates 100 years of agricultural innovation at Langgewens Research Farm",
-      "summary": "Western Cape Agriculture celebrates 100 years of agricultural innovation at Langgewens Research Farm Western Cape Government",
-      "source": "Western Cape Government",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTnNjMHZ6VkduSzdhVHQ3aFpxdHBDUG5hWGwzSkZiVUxDc3gybi1Jc1QwVngzd3FzSGZNMnZrSDZqb3haX2ZEcjRmTE1icW9iOEtCNldDenlSeVlJeElGV3ZScVpvNmF5LXBRT3lNX2htanByaDZVWkhlZVNFVUhCcy1qS2QtUlo4S1BqcGd5M1ZKX1NqaU5UdEN5TDF0MVA0MW1ZOTU1YVdqOGd3bkNrdjhCLVdSSllLZDkzczRzdm1GY1BNVjBvd0dYUlVpOHJDdVh5NE9Caw?oc=5",
-      "published_at": "2026-09-18T08:36:49+00:00",
-      "country": "Regional",
-      "category": "Climate",
-      "importance_score": 6.18
+      "id": "10baa9fb8481f9bc",
+      "title": "Nigeria Rejects Alleged Support for Niger Coup, Reaffirms Vows to Democratic Ethos",
+      "summary": "Nigeria Rejects Alleged Support for Niger Coup, Reaffirms Vows to Democratic Ethos THISDAYLIVE",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObjFHTHVDM3hKYl8yLTZUMjBBcEgweWRydThsbllacHFqUEdmbVc1dG1iUnBkZnQ3NFl5WHFZQXM3aUZlOVB3aEI3OHY1dUk3X1VBVXZpT2QySkdya3hzeDdYSHJIOU4wTlNjV0xTLU5zNlB6UWdGWURNbzB5N0RhaE9TM3l5OHJWMzVRZUtvRlFMWHdrcVNOSmRNWk5uUmFMZUZQTGxUNE9QUTB1UlNBZWNDanM5dDlGSTRRQTFn?oc=5",
+      "published_at": "2026-09-18T21:45:07+00:00",
+      "country": "Niger",
+      "category": "Security",
+      "importance_score": 17.18
     },
     {
       "rank": 9,
-      "id": "7289ebadd4fce564",
-      "title": "2027 Election: Four Years Enough to Transform Nigeria, SDP’s Adebayo Says",
-      "summary": "2027 Election: Four Years Enough to Transform Nigeria, SDP’s Adebayo Says thisdaylive.com",
-      "source": "thisdaylive.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmQ5WExxcmZjbmJBakJRVkNId084NmVMdXNBV1hoYThNQXBMQXZjQlhlR3MyWU54Qlg2azkyVWk4YTFNSkp5Y3NiTVFPa0lpa1FhcFdtcWlDSV8zcnBKdi1PcktDWEFCbjBSZjNYSlhxcERUMlJpR3FjOVpsbXpCdkNXOU9kWkpxSTNFVU1jemoybUZ5OUhhV2ljS1lnNnB5TjQyREFnWGpjMzd5YlVn?oc=5",
-      "published_at": "2026-09-18T09:19:50+00:00",
-      "country": "Niger",
+      "id": "f8f7a9a7c4f573ee",
+      "title": "ECOWAS Commission President Meets Qatari and Sudanese Envoys",
+      "summary": "ECOWAS Commission President Meets Qatari and Sudanese Envoys The Diplomatic Insight",
+      "source": "The Diplomatic Insight",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcl9CSDExc1JSQTk0SjBKeGZnVDN0UEFKSmhIU3FYaEtSclg3LUtBdW9UbmtMQkF5U1FTZHp2RGNIOUFjSk9rOEpzci1hMkp0MmhnVlpsRUJDb2U3aThJcGRWMXRjU2NiLWpIdW1EVXY4Vm5lb2ZoUmtsalN2LXY4clhEVmtwZnl2TW11am93?oc=5",
+      "published_at": "2026-09-19T07:52:39+00:00",
+      "country": "Regional",
       "category": "Politics",
-      "importance_score": 15.18
+      "importance_score": 14.18
     },
     {
       "rank": 10,
-      "id": "95bd47c7d5638c28",
-      "title": "Senegal's gas production should ease its electricity prices, minister says",
-      "summary": "Senegal's gas production should ease its electricity prices, minister says Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS3VhZURlMXNKcVFOa0dVU1U3NE1NY3hhTlZGUWpsQ3k3YzJuMkhrVzRMN3VJd0RBdFF6cFc1WE9sYUhDNjMtempUZUxrRlRCbHZ5c3FzN0tXRGY4R2d5TFQ4a0ZLYXU0VTZkMTMzSm9GazhRell5Qy1vekJhS1loS3NvVHphY19kZ3lmWnZwQnNfM2pyU2x2NEJoenFlNmJzNnVFSkNISXduczhRc1RkdVFEZkx1SThSdXJEMEI4ZmtCdw?oc=5",
-      "published_at": "2026-09-17T19:29:43+00:00",
+      "id": "5b8bbbc3567b8b5d",
+      "title": "Sadio Mané Bets $20 Million of Own Money on Senegalese Mangoes",
+      "summary": "Sadio Mané Bets $20 Million of Own Money on Senegalese Mangoes bloomberg.com",
+      "source": "bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeER3OGg2UjJ2bXpHTElUM3pSeGZTZnR0bmVmOHdJZDB3dUU5V0lhS0xZZWVjYVd3YVFENWI4MjNRekNmUldEbXJ5Y2ljbHA4UERzdzl5SHQ1cGkxTXBWTExrTy1QZW8tbDVUVmpEaHJWWVY2UGhhdmlLSEl6eEpUOGlPZU82WGN4MGFtaWFNLTVMdGt6OEpwMlE0cGg3ckdEeFdIVnJxNlV4LUNEZUgtQlB3?oc=5",
+      "published_at": "2026-09-18T12:22:43+00:00",
       "country": "Senegal",
-      "category": "Politics",
-      "importance_score": 14.18
+      "category": "Economy",
+      "importance_score": 12.18
     }
   ],
   "learning": {
-    "type": "Political risk concept",
-    "title": "Why currency instability matters",
-    "description": "Sharp currency movements can increase import costs, raise inflation and make foreign-currency debt harder to service. They can therefore affect public finances, business confidence and political stability."
+    "type": "Regional security",
+    "title": "Understanding the central Sahel",
+    "description": "The central Sahel commonly refers to Mali, Burkina Faso and Niger. The area has experienced persistent militant violence, military intervention in politics and severe humanitarian pressure."
   },
   "methodology": "Stories are collected from public Google News RSS searches, classified using keyword rules, filtered for near-duplicates and ranked using source quality, recency and political-risk relevance."
 }

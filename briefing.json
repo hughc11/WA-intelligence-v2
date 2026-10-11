@@ -1,88 +1,84 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T12:40:30.755058+00:00",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T13:00:55.441938+00:00",
   "title": "West Africa Daily Intelligence Brief",
-  "executive_summary": "Today's West Africa briefing is shaped primarily by politics, economy and security. Significant developments are concentrated in Guinea, Niger, Ghana, Mali. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
+  "executive_summary": "Today's West Africa briefing is shaped primarily by security, economy and politics. Significant developments are concentrated in Ghana, Niger, Benin, Sierra Leone. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
   "statistics": {
     "story_count": 10,
-    "source_count": 9,
-    "country_count": 5,
-    "category_count": 6
+    "source_count": 8,
+    "country_count": 4,
+    "category_count": 4
   },
   "sources": [
-    "Adomonline.com",
-    "African Development Bank Group",
-    "IOL",
+    "Asaase Radio",
+    "Herald.co.zw",
+    "Independent Newspaper Nigeria",
+    "Lokmat Times",
     "Modern Ghana",
     "MyJoyOnline",
-    "New African Magazine",
-    "Ripples Nigeria",
-    "The Guardian Nigeria News",
-    "The Taiwan Times"
+    "Tech Review Africa",
+    "The Guardian Nigeria News"
   ],
   "countries": [
     "Benin",
     "Ghana",
-    "Guinea",
-    "Mali",
-    "Niger"
+    "Niger",
+    "Sierra Leone"
   ],
   "categories": [
     "Business",
-    "Climate",
     "Economy",
     "Politics",
-    "Security",
-    "Society"
+    "Security"
   ],
   "stories": [
     {
       "rank": 1,
-      "id": "db243d626e1560ff",
-      "title": "Guinea-Bissau to delay elections following last year’s coup",
-      "summary": "Guinea",
-      "source": "Adomonline.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQUN0RHZmaFl4Y2Nka2lSblF0bVlwR1VtX2plMlc1M29FQTRjVXllbWZCeG9XOHdmRkcxNm05ZG5xYlhndGJiT2NWaUtwOEg4cWxDbUYtUC0yLWVMYmthOThNUnAyNDM5NjZuemh4WFRVcmxZMnh2d3pRRmN0QmxFMGlyd0ZYUk5hTHlOaHVrMA?oc=5",
-      "published_at": "2026-10-09T15:12:54+00:00",
-      "country": "Guinea",
+      "id": "e67aa0714230f41b",
+      "title": "Ghana’s selection to host global Assemblies of God Congress is a milestone for Africa – Rev. Wengam",
+      "summary": "Ghana’s selection to host global Assemblies of God Congress is a milestone for Africa – Rev. Wengam MyJoyOnline",
+      "source": "MyJoyOnline",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT2h5UU9DTWhQaTBVTjc3OW1ERjNySU5JejdCS0NjYS1pSmpmaGlkNVZZazZsVDlSREFLNy1PTjRDRlctTzh5TVpqcFNraUlzLXBGRGhxWUdrX1QyRm55cVp5M0pOLWlQTnNwU2ZJT2NCeWxzODRVbC16ajdoSmt5WWUyRkxZSUxab1J4SkRGejZUUWc0VFZ5LUh6SEJMcm9MeW9GUC02cGFlY2pjOVZvT01QWmQ4X1JzbzU5TW5hcXQ4UQ?oc=5",
+      "published_at": "2026-10-11T11:58:55+00:00",
+      "country": "Ghana",
       "category": "Politics",
-      "importance_score": 18.18
+      "importance_score": 12.18
     },
     {
       "rank": 2,
-      "id": "2d52bcf8eccbed1b",
-      "title": "KPMG: Businesses must prepare for multiple scenarios ahead of 2027 elections",
-      "summary": "KPMG: Businesses must prepare for multiple scenarios ahead of 2027 elections The Guardian Nigeria News",
-      "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2lUblMxbExmbUU3MFVLRE5QdXlPaG5PQmpmRzNkQVd2ZEVXblFzS3FBS0dpdTNqRnlDenowaV81RkN0T0xCbUZFTjVSbVE3YVhRbXdMQ3JFek5Bc2ktd0h3MlNWZVZmMzRWaU9VVWo0RjFCT1JPTDdnbU5aSDN3ZE1NSmQ5LWtOZExWc3BDUVhzcy1KaUxERXF2N2ktaG9ibVhn?oc=5",
-      "published_at": "2026-10-09T19:43:00+00:00",
+      "id": "4638b34ec098433b",
+      "title": "2027 Elections: Nigerians’ Desire For An Independent INEC",
+      "summary": "2027 Elections: Nigerians’ Desire For An Independent INEC Independent Newspaper Nigeria",
+      "source": "Independent Newspaper Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbUc0Tk1GVGt0Mm9jU3VqU3JNa2NhejZtM1VyVlpBV09tMnZwa2xmVm1uZk9SNThuTmZlNHZUNEd0LTZpakdtbnhfQVRTemd0UFh1Yk11c2dqWlhRS0NPaUFrcERCNHRwLTZKN3EtZTJPWUd3Zy1qbC1jUEFZUmRVMUlJazZ4UQ?oc=5",
+      "published_at": "2026-10-11T03:47:36+00:00",
       "country": "Niger",
       "category": "Politics",
-      "importance_score": 17.18
+      "importance_score": 12.18
     },
     {
       "rank": 3,
-      "id": "b19a2c6fef714af1",
-      "title": "Global economy under pressure: IMF warns of energy, debt and AI risks",
-      "summary": "Global economy under pressure: IMF warns of energy, debt and AI risks Modern Ghana",
-      "source": "Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53akpyaWE3S0lzcjVPeXpsSEFfUXVjeG54dmJ1ZDY1M2xDN05EQllQV0phYS1SaDJXNmd5MUZHMUpjTGh6NmVpZVNmSG9KaHZxR2lYYjVlWnBQb2lFUjNxUNIBXEFVX3lxTE1pZEZRc3pTS1hNTDNUbmhqR0t1VC1ZS0tXYkh5TG4ta3NKaDZDdXVCa0xTSmNmaEFDckFDQXY5Nm9xQlFoS0pHcTNFdmxCZjI1NnJMbU1tRmYwUmNI?oc=5",
-      "published_at": "2026-10-09T13:37:15+00:00",
+      "id": "82ca368230c5fcca",
+      "title": "Government urges private sector investment as economic reforms seek to boost confidence",
+      "summary": "Government urges private sector investment as economic reforms seek to boost confidence Asaase Radio",
+      "source": "Asaase Radio",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclBFTUpwOFI0UlJVQ05MZXljSGpmcWFfTlhKMDZ2alg5a0FjTjNGRkNJcEJTNzdjclQycldhcloxRXByMm45YVBWOFNZN2tlMFk1eXVMMU1WdURycjd3YXo1OVJicEVKNDhUTmhpYzk3STVNX25rQ1FMc2JnZUE5MkhZVzZ3bFctQ3NlQ05jTGJKOWlJUEtCaWx3UGNRdXFBb0lsRjBxRWhoenc?oc=5",
+      "published_at": "2026-10-10T14:37:34+00:00",
       "country": "Ghana",
       "category": "Economy",
-      "importance_score": 18.18
+      "importance_score": 13.18
     },
     {
       "rank": 4,
-      "id": "27deffa5cd5e00f0",
-      "title": "Mali: African Development Bank and IMF review Mali’s economic outlook and investment priorities",
-      "summary": "Mali: African Development Bank and IMF review Mali’s economic outlook and investment priorities African Development Bank Group",
-      "source": "African Development Bank Group",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ctOWpaRjFIaUZ2dkk1QUQ2V0gwNHN6aXZlUE55dHo0RnBkLXExdzltdnJPYmo0T2ZtamRxa3dPVTA1WDg0ajFIbnZ2bkE1Qk1SMU1lUnBTaVdHWmZvYnJpb1NRMV9FVlAxUEhCNktVUmw1VlBSWGo2RW5ocnhNdWhkaVJ5ZXQ3RzlfbnJQUUl6UE42WC1lbXNHeURvMXZpVEpzQnp6bmRkb3c?oc=5",
-      "published_at": "2026-10-09T15:49:59+00:00",
-      "country": "Mali",
+      "id": "30fab346cd18f2e8",
+      "title": "Kukah, Nnaji lead AI drive to bridge Africa’s digital divide",
+      "summary": "Kukah, Nnaji lead AI drive to bridge Africa’s digital divide The Guardian Nigeria News",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1lyamRzVXBpMWRxQ19td1gyR0xTMk1sM0RDUWM4Ukx0MWhxVE56LU9paVVFNTBGN1dyS0JyT1hlblZORUo3OEpobXg0eWdNY1hxMDIza2JWbFdZbC14aml5bzE2Z3pKd2tlZklCV2F0Z0pGbGJYWDFNa1Y2SHVJa19adTV4MXVzY2h6Yw?oc=5",
+      "published_at": "2026-10-11T10:33:55+00:00",
+      "country": "Niger",
       "category": "Economy",
-      "importance_score": 14.18
+      "importance_score": 12.18
     },
     {
       "rank": 5,
@@ -91,76 +87,76 @@
       "summary": "Nigeria, Benin Set Four",
       "source": "The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03WkJlYzJzRXFpWHYzd2kzZmpLM0hpT0sySTRVeWhRN0NDb21nd080V3NZSnhkQW1JdlBpZE81aC1mOEtrNEQ4S2Z1SHBkTC11Z0pESF8zeks1T2lCR01UdGFnMkJBenVYMHNMU0U0WVQ3NEQtS19BSEJCV2VzTHM?oc=5",
-      "published_at": "2026-10-10T12:28:53+00:00",
+      "published_at": "2026-10-10T13:21:00+00:00",
       "country": "Benin",
       "category": "Security",
       "importance_score": 16.18
     },
     {
       "rank": 6,
-      "id": "79e676e0d59b5ba6",
-      "title": "Politicians more concerned with 2027 election than Nigeria’s security crisis, ACF laments",
-      "summary": "Politicians more concerned with 2027 election than Nigeria’s security crisis, ACF laments Ripples Nigeria",
-      "source": "Ripples Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWlLTzRJYWpEbzlXbWZYTUU5ZEZMWDBnSU1penE3UTlacjRKSWRmQWNaLTU0eXo2UThfd3lrM0l1NXludWlQNHk2NV9GMTRrQUFjZFdqZHRveTA0aE5ub1pZTGVBTFlXelN0eENRN1JXVU1DTGxsRUZ4RUY2VGI0ZFBJVWxsWUxXSzhRUHN1enVud0puNjYzOTVVd3VBX1RKMzh0QU9hNFZXY1ZoUURsbXhlQXo4V0RVQ0lr?oc=5",
-      "published_at": "2026-10-09T13:16:05+00:00",
-      "country": "Niger",
+      "id": "8abd37b835deabd4",
+      "title": "UN envoy warns Houthi attacks on Saudi Arabia threaten regional security",
+      "summary": "UN envoy warns Houthi attacks on Saudi Arabia threaten regional security Lokmat Times",
+      "source": "Lokmat Times",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVU5SSEtLSV9QY2dwX29jVVdOa1JmeU9hbnJlTVZQd1ROcmkxMWpLRk1mQmNnYzdIcDhzMVVjQ3hycTRKMVBad1c4TEd4TWdrRXluclFNeHVhMTJLUUdnYV9IRG5HS1A0Yy1LVVlLZ2VEd0UtNlFWOGV5Q1ZESmRDREJXc0haMTZkak4wR2VZc3FJNzhNYUZ0OXdROVVqdWR1aGNTSF9JbFN1SUZmdkJlXzZxdU_SAbsBQVVfeXFMTm9HSVlQNWtxQ2d2a2k2N1F0WjYxSlNHd256U2dWNXpyR0FxN2VmRXN5RzczWVhpOXlZQmdCUk9GTmNlWU9ydmRKV3doTldCeDJTWlNwcFlMMTBoRlVxUGRqNzVNc0Y5U1FjanV6N09aNC1uUGFUTmhDRFRKOHUwOUlRZHhOdWpXZC1XY2ZJb21JSW5jYXhBYm95a2lWbEI2SVJ2SHJPQlBCdFNKamJzWlNKamJ0dEVBbmNGVQ?oc=5",
+      "published_at": "2026-10-11T08:58:54+00:00",
+      "country": "Regional",
       "category": "Security",
-      "importance_score": 16.18
+      "importance_score": 14.18
     },
     {
       "rank": 7,
-      "id": "ba09e760327ea1cc",
-      "title": "UK-Ghana Trade & Investment Summit: Trade Resource Centre to help businesses maximise UK-Ghana trade opportunities",
-      "summary": "UK-Ghana Trade & Investment Summit: Trade Resource Centre to help businesses maximise UK",
-      "source": "MyJoyOnline",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX3pDTVlscmdVQWZqWDA3dEdzMVdtcEYyYUE0TWtwQUhCRnhlam1kS1FNeGFRRVJxQWd4Mk55UEtBOXNmMEtISVYzdUdfUXJ2dG9FR1V3MGVkamsteWc0ZnBDR1Rpd1F5Y0RqNy1mNnh6bEpLSG9SdUFCQWNwTFlQUDZNdl94eWpHR3QwVXV5VlRiWW05ZE0xd1JhVXJrUlpRczhnaTk4VW1nSzVNemFlbjFTT1RGZDJia21ENy1BYXE2ODFZaFhxeTlXMTRDOFBlZkk1LWM5cw?oc=5",
-      "published_at": "2026-10-09T22:31:56+00:00",
-      "country": "Ghana",
+      "id": "2243623574a50872",
+      "title": "President outlines ZANU PF indaba priorities",
+      "summary": "President outlines ZANU PF indaba priorities Herald.co.zw",
+      "source": "Herald.co.zw",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3lrMnRmcW9CQnRPMkdPSU9YTDlmVE1Ed3B2ck5vVWx1VUpheHYwdk03WGZFRWFoSzVxcWcwa25TQll2MkJ4M2lTM1Brc2w0TGx0QnBFWXNacmxIZmJEaV9tUGR3dEMtVnhIVVM5emhmRWFUZ2hIejdHNlJlZ2pBQnh4aWo?oc=5",
+      "published_at": "2026-10-10T22:15:48+00:00",
+      "country": "Regional",
       "category": "Business",
-      "importance_score": 11.18
+      "importance_score": 7.18
     },
     {
       "rank": 8,
-      "id": "adc1d5e907453c5b",
-      "title": "Security stepped up in Durban amid anti-illegal immigration protests and MTN8 final",
-      "summary": "Security stepped up in Durban amid anti",
-      "source": "IOL",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcUpmaHZvU3dJUkRIbHI4Rl9nSVJfZk5UamtnSE1kMS13cFN3NFBXVFJaaENQdm4zemJmNVVWMzRDeE5MZHh5Z2xabzFsbGVlTGhTN1VwNUtjdS1lUnM0bXNva2dscUpuV1RDd0tGUElZcHBwR1dXM21VN2FPWkY4cE5NSHl0ZUQ4Wk5WMGlZV1Q1VXJEVWhHdGxTVlVFdkNpMWhma19YLUhZUkd6bEc5b29CNGtva3AtbnZSUk1IbTZWYjdMUnFDVnRPUUpCcmFfNFVwSHhOOXdRSEhiNGc?oc=5",
-      "published_at": "2026-10-10T07:15:16+00:00",
-      "country": "Regional",
-      "category": "Society",
-      "importance_score": 10.18
+      "id": "5b09ce9a3eefa570",
+      "title": "The Calculated Attack On Dr. Mahamudu Bawumia Must Stop",
+      "summary": "The Calculated Attack On Dr. Mahamudu Bawumia Must Stop Modern Ghana",
+      "source": "Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmItRU9GX3RlVWFFMjNmT3NpOUpieUhHYUdfR2lMRm9NRVJQU0dNTU1WaFZtemc3SzBVOXRMUlkyZ2pvT0tjSkF3SW10N3k1Y1ZKX2x2YllOS25HbEhyMHNrUHJUcTk2c0M3elFFX2VMbndtdGVNcWZXYkVMWmlmS1ZFNi01QnFwZXByXzJWY3BVYW1CaHZRU3JBa9IBmgFBVV95cUxOX05OMUxLVmlBbTVrdUtkaWhHblB3VW9WY3R1MEYxcXhoeGs4RHpiS21VRDdnZ3E5b1VkTzVKV1ZOWEhSc3UzdXdUc1dWWGRsNklMZTlWT04xRTVoWFkwYnpuMTIzWmRGSVlHWTZCLUE2WHl5NlBiVXBmRXFrRTBHdS02cmw1ZVFKXzhJODdOZjBVVkI2Sld6eWpR?oc=5",
+      "published_at": "2026-10-11T12:21:43+00:00",
+      "country": "Ghana",
+      "category": "Security",
+      "importance_score": 13.18
     },
     {
       "rank": 9,
-      "id": "49513eb10b498ec3",
-      "title": "Kenyan food security innovator wins $96,000 Äänit Prize",
-      "summary": "Kenyan food security innovator wins $96,000 Äänit Prize New African Magazine",
-      "source": "New African Magazine",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR2xBSnNVbTg2OTRGc200bTVuVFhPRlpRQmM1d2JWNWZfWnV0SExaZGVpcTNKVGZfN1k4YVl5ZHhhV054X3pwRHBkZGprVWdUdFRiUHhTa3RLdTg0eGh4QnlzSm56OVFWMlIya09pVU9OcEkyMTdiYWNpYW1tSEI3a3ZPR01WZENFNC1mSGNwRk5EdnpZVXlwbWdGVmY?oc=5",
-      "published_at": "2026-10-09T13:52:20+00:00",
-      "country": "Regional",
-      "category": "Climate",
-      "importance_score": 10.18
+      "id": "080433e7c5e33f71",
+      "title": "ECOWAS Commion Presidendent Diop Meets With IFRC Head Of Delegation In Nigeria",
+      "summary": "ECOWAS Commion Presidendent Diop Meets With IFRC Head Of Delegation In Nigeria Independent Newspaper Nigeria",
+      "source": "Independent Newspaper Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUF1S1p0SFhzSGtTa2l2dUlEZGhKckw5OTg2ZUNrOWRqcnN3UU1FcGFtNmFpeDhna3gtMWlNX2ZMZzNPLTI1WkcwcTBTZVZuS0ROTG9idUtmTURialZDeXgwdktXRk5XS2JzcHpKYnZNSjlrWUVxeTY2bzBDNEdPNmJzcUZzOHZ1eWlwaE5odGxLaTM1SldJWmI4am5lbUt2LXR2Yw?oc=5",
+      "published_at": "2026-10-10T14:19:02+00:00",
+      "country": "Niger",
+      "category": "Security",
+      "importance_score": 13.18
     },
     {
       "rank": 10,
-      "id": "efa2be1ba0ec7133",
-      "title": "Guinea-Bissau Postpones Upcoming Presidential and Parliamentary Elections Indefinitely",
-      "summary": "Guinea-Bissau Postpones Upcoming Presidential and Parliamentary Elections Indefinitely The Taiwan Times",
-      "source": "The Taiwan Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMm9ZRFJNZllnRDVlT2ZzQ3UwZ2JTaWh4aXpEcUVmc3JjOUFMaVJONTdNZW1YMGJxVmpMQlFOUXB5ZTltWklxb3kwR1VpWW0xbE5peEFrcFU4THZaZ0tYUUwxalVFajZIQWJFblFwWUpiWGVVa1FVVmQ1bWVHMEtCR2MtR3U1RzNLQ1Z2dkhpYU15MXdRd0JvT1pyS0dtazNDMUtnekxfaDhvQm1k?oc=5",
-      "published_at": "2026-10-09T14:32:56+00:00",
-      "country": "Guinea",
-      "category": "Politics",
-      "importance_score": 16.18
+      "id": "82c7697b85d73ad2",
+      "title": "Four Sierra Leonean startups compete at ECOWAS Startup Awards in Abuja",
+      "summary": "Four Sierra Leonean startups compete at ECOWAS Startup Awards in Abuja Tech Review Africa",
+      "source": "Tech Review Africa",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaF9yT05TeWRuV281YjdkSlpVeTZPTU5Kb3dJblNYLXdfZXZVclBfSkxTclpJSU1ZTENxa2ZJN0w0WW9teEx1V1dQRXl6ZENQOEk5YWZFOXZRTTkzd2RCREJyZ3I0eG90UFdiVWttN1BJRDdaZGJOVXNiTG9ndWRFLUpKem5GY3VUVzByMDA3V05iM3V0dHotdDdlQmVjRWRyaEVBbUJmMHNVb0ZhZ0E?oc=5",
+      "published_at": "2026-10-10T15:59:06+00:00",
+      "country": "Sierra Leone",
+      "category": "Economy",
+      "importance_score": 12.18
     }
   ],
   "learning": {
-    "type": "Economic development",
-    "title": "Why infrastructure affects industrial growth",
-    "description": "Reliable electricity, roads, railways and ports reduce production and trading costs. Weak infrastructure can therefore limit manufacturing growth even where labour and natural resources are available."
+    "type": "Political economy",
+    "title": "What fiscal reform means",
+    "description": "Fiscal reform involves changing government spending, taxation or borrowing to improve public finances. Although reforms may increase long-term stability, they can create short-term political pressure when subsidies are reduced or taxes rise."
   },
   "methodology": "Stories are collected from public Google News RSS searches, classified using keyword rules, filtered for near-duplicates and ranked using source quality, recency and political-risk relevance."
 }

@@ -1,30 +1,28 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T11:47:14.508967+00:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T11:12:09.076200+00:00",
   "title": "West Africa Daily Intelligence Brief",
-  "executive_summary": "Today's West Africa briefing is shaped primarily by security, economy and politics. Significant developments are concentrated in Ghana, Niger, Senegal. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
+  "executive_summary": "Today's West Africa briefing is shaped primarily by security, politics and economy. Significant developments are concentrated in Benin, Ghana, Niger, Côte d'Ivoire. Security pressures remain an important source of political and humanitarian risk; while economic policy and market conditions continue to influence investor confidence and household welfare.",
   "statistics": {
     "story_count": 10,
-    "source_count": 10,
-    "country_count": 3,
+    "source_count": 7,
+    "country_count": 4,
     "category_count": 4
   },
   "sources": [
-    "3News",
-    "BBC",
-    "GhanaWeb",
-    "IntelliNews",
-    "Modern Ghana",
-    "MyJoyOnline",
-    "Premium Times Nigeria",
+    "African Law & Business",
+    "Atlantic Council",
+    "GBC Ghana Online",
+    "THISDAYLIVE",
     "The Africa Report",
     "The Guardian Nigeria News",
-    "www.wam.ae"
+    "The Washington Post"
   ],
   "countries": [
+    "Benin",
+    "Côte d'Ivoire",
     "Ghana",
-    "Niger",
-    "Senegal"
+    "Niger"
   ],
   "categories": [
     "Business",
@@ -35,87 +33,87 @@
   "stories": [
     {
       "rank": 1,
-      "id": "608169944d06b750",
-      "title": "Jinapor emphasises importance of energy security at 16th Meeting of ECOWAS Ministers in Charge of Energy",
-      "summary": "Jinapor emphasises importance of energy security at 16th Meeting of ECOWAS Ministers in Charge of Energy 3News",
-      "source": "3News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXZnUnZvUFdhRDMyLW1VaXctQ1ZDRjFjTjJyZWhheHd6dGotMjRjQTBGWlBXbUp6WGsyM092eXpwMlA0eUZPS1NkVEpJRjZRdEg5TXFHXzhuSkNwWWJvckc3ZWFjMGZDbmxxODFYbS05NVdoU0t4bmRLNm1oQnF3UlFtYmNxN3dlYjF1OEJxY0pOeTBmUEc5MzR1eDdXbHlSeTFjeDVTX3hNUTQ4YVlrd1VlckJZTWZwV3p6Ykl2MHlqOXRrNkE?oc=5",
-      "published_at": "2026-10-23T06:08:53+00:00",
-      "country": "Regional",
+      "id": "0ef84e3f4e976ed8",
+      "title": "ECOWAS Court Elects Liberian, Beninese Judges as President, Vice-President",
+      "summary": "ECOWAS Court Elects Liberian, Beninese Judges as President, Vice",
+      "source": "THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3ctTWVDdkVRS3RaWm5WeThOTy0xRUZpMVlvTkVBNjdzNlVwR0I3X2kwZl81anE1NDlVME1oNDYzdEZ2UlFfalh6TEZZS09MUHFkZ2VhSUpqS1pEZk5ZTUl4Vjl5SE4taUpTU1hZbklrazY5WEVCSm5oN0kwdENOVFdvanB6MkVDcEJ6UWxaQmgyRGQ4blpCQWRkVkxLU21kZ2p5R3paUGtDcDI4LXI3R0p3?oc=5",
+      "published_at": "2026-10-24T00:56:55+00:00",
+      "country": "Benin",
       "category": "Politics",
-      "importance_score": 16.18
+      "importance_score": 19.18
     },
     {
       "rank": 2,
-      "id": "d93c618585aa5f4c",
-      "title": "ECOWAS energy ministers to consider battery storage, electricity market regulations",
-      "summary": "ECOWAS energy ministers to consider battery storage, electricity market regulations GhanaWeb",
-      "source": "GhanaWeb",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONXJIdm5WTXpjeVhSaE1ZbTZKbkJPNFN4eFJrbUQ0Z2psdWcwVUxNcFl0S0U2OWZSX2N4bGZRUDhYMVFnV0ExOVpwR25zN1kzTjNKZHgxYzQ1S0xXSEhqNTV1NU1YQ3N2OGEyVUY0QXVGaEt1aGhITDdtSGNFV3FtbUs4VkxJMWhMNWR0SHpQd2dQYkdYM0FrcWViYm12V1JGdU91SWljRmFSalNfUE5iUEVvaWF6VFpoMWhKVExBckpSSHhZZ01GcVJmU3dQNjhaejNYTTM1VnR4UGcxeWtWcGx3?oc=5",
-      "published_at": "2026-10-23T09:03:08+00:00",
+      "id": "15c537ed878a6238",
+      "title": "Ghana’s presidential daughters: Nkrumah, Limann, Rawlings, Kufuor’s legacies in safe hands",
+      "summary": "Ghana’s presidential daughters: Nkrumah, Limann, Rawlings, Kufuor’s legacies in safe hands The Africa Report",
+      "source": "The Africa Report",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVFJ3dVRoYmg2SHRZNkVnRnBveUpRNHlmS1liTVltWkFUekNHek44cnZ3QjhhTGp4Q09jSG8zYldhMTNySmtET19tMDlramlrblZVQzViWGJJUEs2X2E0VWRPLWpXR2pJX3F1UGdhSnplZDNNd3dqWXYzOFpCVFFjSnJFQzU3aDRBdzBpag?oc=5",
+      "published_at": "2026-10-24T07:02:38+00:00",
       "country": "Ghana",
       "category": "Politics",
       "importance_score": 15.18
     },
     {
       "rank": 3,
-      "id": "29ff02dd748bfef3",
-      "title": "Buhari, Tinubu and Nigeria’s debt surge: What the numbers really reveal",
-      "summary": "Buhari, Tinubu and Nigeria’s debt surge: What the numbers really reveal The Guardian Nigeria News",
+      "id": "3876573bbcc854c7",
+      "title": "2027: Tinubu’s economic reforms need continuity, Sanusi tells Nigerians",
+      "summary": "2027: Tinubu’s economic reforms need continuity, Sanusi tells Nigerians The Guardian Nigeria News",
       "source": "The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMHV2SHVyZ3VrYUx2SWlKNzdybmo1QkNuLUw4b2JvRDdwdXh3al9NZmRBZXNCdzJLd3ozaEpKV2NBQmNWMC0zRVZSVjZsQktmR0J5SEZvQnBYUkpwYUJIVHhENkFHb0NnWFFid25WLVRFSC1rZVNvSFUwUTI5WUNnNDdHT1gzV3FUU0hXVzFpR2ZNcWNZMUlHdWF3WGZtcFBDdWU5Z3lidXFrRmNM?oc=5",
-      "published_at": "2026-10-23T04:37:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDY3ZXBGRGxEUDkxTndkZzFOYXc2QjVia3FQRENEVzhJVUwtMEFuNW95aG5pWEFscUVGTGFxeVVzOE1OWlIxRXFVUGM5dE9kbUJMazBfWmNpaFNwenZ3SnVndXVXdmVnX1laTjF3ZlFXel9FSWYwbHZFYTlac2lMeC1LUmpXQ0pPYWUwbGJpWlFkdjQxamEyRFZ3cFNWWlk?oc=5",
+      "published_at": "2026-10-24T11:06:38+00:00",
       "country": "Niger",
       "category": "Economy",
-      "importance_score": 16.18
+      "importance_score": 12.18
     },
     {
       "rank": 4,
-      "id": "9066e40706237fd8",
-      "title": "African CEOs prioritise AI investment despite readiness gap – KPMG",
-      "summary": "African CEOs prioritise AI investment despite readiness gap – KPMG Premium Times Nigeria",
-      "source": "Premium Times Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNVE0T2NzOGpSRUx2aXpmZUNQSzRvWE9HaU5HLVJRS3VwNll5MVoyVmdRSEZXRDlwMHdCYXB4YTNsZkpjMl8zUnc2ZW8yMktCWUdNNmt1dHBOTS1JMlRaY0c5dFpUNnFvNVNIWFN4N0xITDJWdFNsUEFSMmZUdnBNUS1PXzVLWWdXX3AxTmg0ckI4aWQ5UFNhZG1SU1p3dmk0YWNpdXpFXzZQRzNuM3pNTDZHay1EN3l6NGtlaElZN0NPS0ppWFdWZVhR?oc=5",
-      "published_at": "2026-10-23T06:48:28+00:00",
+      "id": "8d7f929e750c9953",
+      "title": "At Plugged In 2026, stakeholders unite to turn Nigeria's creators into million-dollar businesses",
+      "summary": "At Plugged In 2026, stakeholders unite to turn Nigeria's creators into million",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXBhTUZhTXpOcGRRblBHcnF0N0w3eFFQMXJmZHF3WkZEYl9YbmxVV3k5cm5xa2ZvdTY5QUZSQUpUem5IN1lhNHp2R0VIZHJUQUlONWhhbjM2WlRYakY1ZktmRjYyeWw0dmpaYlhsRXNZUEZ2QTdGRzhoTjdjR2dOT2ZDcmY4OUpqSjM3YzcwdDYzYUFWd2dVWm5ReWFPc0JqYmg2TU5YTk92ajc5TVA4aTVWWktyZ2M1NXlMOA?oc=5",
+      "published_at": "2026-10-24T04:00:00+00:00",
       "country": "Niger",
       "category": "Economy",
-      "importance_score": 14.18
+      "importance_score": 12.18
     },
     {
       "rank": 5,
-      "id": "95321aa8e12f7cc3",
-      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-      "summary": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zZjdYWmN5UF9BQ2NQVkV3ekRXdFgtSGJzT1ZydWxyZDUtdkdJcHBZWmItUDNiQWJraC1OMmdCcG9JRUFJeUhGa0l2SU1pTU9tMDk2NmVxQUVPS0tUQ3c?oc=5",
-      "published_at": "2026-10-23T09:25:36+00:00",
+      "id": "65778c815fbd95f6",
+      "title": "What’s at stake in Israel’s first elections since the October 7 attacks?",
+      "summary": "What’s at stake in Israel’s first elections since the October 7 attacks? Atlantic Council",
+      "source": "Atlantic Council",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUhya1pKZjYzWUhHUzZad1pvTmN0OG9wOHVNZmdhWHZPbUh4eGVBNkJINEVzekxuZ042QW0tWGpOQ3NaakQ1aWlUZ2FIVmVfMFh2b19SdGJZd2Q5cXVEVE9RcDVLa3V1X3Nkd1NJQVJkTGRNOVl3Q3dNYzhPUDVJbm5WU1JZakNYRjFuNWoyRkIzc252NllqRG5tV2hCS05OVWNRWU95TzZnQURVRkNMcGhZVQ?oc=5",
+      "published_at": "2026-10-23T21:47:03+00:00",
       "country": "Regional",
       "category": "Security",
-      "importance_score": 17.18
+      "importance_score": 16.18
     },
     {
       "rank": 6,
-      "id": "00da9cbaf75abd4c",
-      "title": "Illicit Gold Trade Raises New Security Concerns in the Sahel",
-      "summary": "Illicit Gold Trade Raises New Security Concerns in the Sahel Modern Ghana",
-      "source": "Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sQlZCeHVZZ1loaDJlWk9EQkFRSFVDandjcTBaMGRBNzB5ckZnbGpEMWk1S0hDdHN5Z2lPUHZicGxScTN3VzFRRWNDTjRoeU53RHh5X0FacUF4UjB5b2hOaHlMb9IBXEFVX3lxTE9EOS1fQnhjbDZRczdtdDUzU0tIc0MxbHRNNWVXc3RxZzZjb0VlOVhNME9lbUlFWmNBdFQxRTE0cm1naDhlYzdRYk55U0Z1em5xaTJfaGV0RUlXV1lh?oc=5",
-      "published_at": "2026-10-22T12:32:56+00:00",
-      "country": "Ghana",
+      "id": "430fdc5bbeb97a17",
+      "title": "Netanyahu vows West Bank military operation after attack kills two Israeli soldiers",
+      "summary": "Netanyahu vows West Bank military operation after attack kills two Israeli soldiers The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSmJyQXhhU1ZfQUJvRVp4cENkNzhMZFl3ajF2UjByeFJGMzdmY2VUdEI1ekRFV1EzZE5KNERXOVFYSTFzckZXYUN4QXc5ZC1CUFl5cGEzOTZ3WnpGa2tLV3NKYW9lZkFGMkFzUl9tekZnM213ZXJOdnJwaTBLMlhlRU5wZEFvYWN6OG9fSDRZMzM0dEw5SFZZX0oza0poNDlCNzhuTlBXSE96UlEyWWtpNkRGZjcySWV6VGx0NndLWkM0c0E?oc=5",
+      "published_at": "2026-10-23T23:14:53+00:00",
+      "country": "Regional",
       "category": "Security",
-      "importance_score": 14.18
+      "importance_score": 15.18
     },
     {
       "rank": 7,
-      "id": "5c668d316d25e154",
-      "title": "Ajman Chamber, Senegalese delegation explore trade, investment cooperation",
-      "summary": "Ajman Chamber, Senegalese delegation explore trade, investment cooperation www.wam.ae",
-      "source": "www.wam.ae",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVzU4a0VTNDR1ckNtQThjSXZpUnNMVUR5V1g5X0wxN21uQ0xiV0RxTDdnZ3gwa1VfOTF6eG5XWUtJYXpGTDNXaFAxN0dvbFVkbjRZd2Z5MU1TNDBtbk1jb3B2STlfNDhTdnozQW8wZ1BvMG4xakIySmtxb0tSU3M2RUFwRVJCeTZCcE9KcktLTzk?oc=5",
-      "published_at": "2026-10-23T07:59:38+00:00",
-      "country": "Senegal",
+      "id": "54518ee23407781a",
+      "title": "New investment for Ivorian solar project",
+      "summary": "New investment for Ivorian solar project African Law & Business",
+      "source": "African Law & Business",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWN2dHUtazRiX05JM2s0WmVlOFZBbEtkWGg3bHI0Ri1McTJ2VGFwODR3UXlNVEpnYjN5OEY5endveW5fLTl2Tm51VFlwVGlESG1wc1FBQWh3TVhpY20wUDRCNnVhZDBCektOYXpHTkFwbGNKbG5MRkxueEVRLXA1QjBqa1lnTFVy?oc=5",
+      "published_at": "2026-10-23T12:16:51+00:00",
+      "country": "Côte d'Ivoire",
       "category": "Business",
-      "importance_score": 11.18
+      "importance_score": 8.18
     },
     {
       "rank": 8,
@@ -131,33 +129,33 @@
     },
     {
       "rank": 9,
-      "id": "be9c79e876bc06c1",
-      "title": "Public frustration with elected leaders could fuel military coups in Africa – Yemi Osinbajo",
-      "summary": "Public frustration with elected leaders could fuel military coups in Africa – Yemi Osinbajo MyJoyOnline",
-      "source": "MyJoyOnline",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnVCR0RNS3ozR2M4N1hhNGMzOE9VbXFJbFJYSjY5V1dMb2wzamlkMDcyd0hLTW5TTHVnVEtieVBIREtPbGpLT01zbGhfNDFyTGtZTUlJb3Itd0Q5aFpIbWF5LWdTTWY2bHFyYnNxRnRQNFJFQTg1dXVTR2dNYjM2REEyYWNxUmZTYWxMQ3NzN1A4ejVWM0QyOUptM0Y2SEdqSWhQbWpXMVJoSmJrMmVjNVVPdWFmbWpKN1E?oc=5",
-      "published_at": "2026-10-23T10:18:43+00:00",
-      "country": "Regional",
-      "category": "Security",
-      "importance_score": 16.18
+      "id": "7c6b9fcf0a1444ea",
+      "title": "ECOWAS Energy Ministers Meet to Strengthen Regional Electricity Market",
+      "summary": "ECOWAS Energy Ministers Meet to Strengthen Regional Electricity Market GBC Ghana Online",
+      "source": "GBC Ghana Online",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXYkpMdHdTa1NmeU4xdllXSEVBNHp3bmJWVE5uQVdXb1lhOXpqVHhoRW1OUnk1eWZac2lsb2xkT3NKT3hGM1NZejJrZUcyN1ZfNzhJODRya2p4eDR5WGlwQ2pGQXlJS3B1?oc=5",
+      "published_at": "2026-10-23T20:47:31+00:00",
+      "country": "Ghana",
+      "category": "Politics",
+      "importance_score": 15.18
     },
     {
       "rank": 10,
-      "id": "bec1339955aa6efc",
-      "title": "Senegal’s general strike enters second day as government seeks approval for $2.2bn IMF programme",
-      "summary": "Senegal’s general strike enters second day as government seeks approval for $2.2bn IMF programme IntelliNews",
-      "source": "IntelliNews",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX2ZEenkwdUtkZUpuRXlBRG5teWh5NHlKZlJlNWRaSEtja054RVB1amxLZ005NlVHRXU5dnU0dU5ab3NCdFU5MWk5WmdGSGY4ODNQY3dydDY1WU4zaFo5NmtVV2Jqbkk2ZG5aMVBSS3dYZFlDWHJpb29ZZDVMSGt5TFFyRWtBY2VQcGJPU2lsbmlPalo2VTVlZ1JwQjFWRFpseU9mcTBCQUk3ZU03djF1WHJiREVaRnZTWXhTQTNNVW1zRlNwQzJiS0ZyNF9WU1NyZXRUcWxHZDJDTFRrOUFJ?oc=5",
-      "published_at": "2026-10-22T15:16:17+00:00",
-      "country": "Senegal",
-      "category": "Economy",
-      "importance_score": 14.18
+      "id": "788cc8d132913e7b",
+      "title": "Israeli military says 2 soldiers were killed in West Bank attack that also left 2 gunmen dead",
+      "summary": "Israeli military says 2 soldiers were killed in West Bank attack that also left 2 gunmen dead The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNWcwd29TZTBrbzlHdjUweHBrMFlISXJIdjdjMk9pbG55RkJLVXNVdDlBU09iYjY0S0pDWWtSZGJab2tNemd4QUw0andQaUI5N2RSNTFjM21oZHU4cWx4UGljZFRNZWZSUkk1ME10VGNyVTBTTUZGQWE4azRnemZqcmp6ekp2NVdoSnRCTW5CVU80TlYwY3hKSkJGeDBCME9kUGRTWkxObnFrOF9fbHh0aU1GeGlOMGo4VVdmaTZQZnZQMWE0MHlxR19B?oc=5",
+      "published_at": "2026-10-23T19:40:25+00:00",
+      "country": "Regional",
+      "category": "Security",
+      "importance_score": 15.18
     }
   ],
   "learning": {
-    "type": "Political risk concept",
-    "title": "Why currency instability matters",
-    "description": "Sharp currency movements can increase import costs, raise inflation and make foreign-currency debt harder to service. They can therefore affect public finances, business confidence and political stability."
+    "type": "Regional security",
+    "title": "Understanding the central Sahel",
+    "description": "The central Sahel commonly refers to Mali, Burkina Faso and Niger. The area has experienced persistent militant violence, military intervention in politics and severe humanitarian pressure."
   },
   "methodology": "Stories are collected from public Google News RSS searches, classified using keyword rules, filtered for near-duplicates and ranked using source quality, recency and political-risk relevance."
 }
